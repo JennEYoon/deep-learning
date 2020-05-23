@@ -3,6 +3,8 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon
 
+.bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "deep-learning". 
+
 First create project on local computer, git init and git commits.  Then create repo on Github, without any readme or license files.  Copy SSH id.  On local machine, git remote add origin master, paste URL.  git push commits.  
 
 ### My exercises for Chollet, Deep Learning with Python book  
