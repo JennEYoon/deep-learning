@@ -3,14 +3,15 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon
 
-.bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "deep-learning". 
+.bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "/work/deep-learning". 
+Conda3 base env uses Python v 3.7. Has deep learning packages for Coursera DLAI class and Stanford CS231n class.  
 
 First create project on local computer, git init and git commits.  Then create repo on Github, without any readme or license files.  Copy SSH id.  On local machine, git remote add origin master, paste URL.  git push commits.  
 
 ### My exercises for Chollet, Deep Learning with Python book  
 
   * Appendix: setup, tensorflow, keras, GPU on AWS EC2. 
-  
+    AWS EC2 GPU large instance still too expensive, 70 cents/hour. Use Google CoLAB free GPU instances instead. 
   
   * Chp 9: Conclusions 
     Key Concepts Review, how to keep-up with new developments, future of deep learning, limitations of deep learning
