@@ -1,2 +1,10 @@
 # My bash shell commands  
 
+current directory:  ./  or .   
+parent directory:   ../  or  ..  
+
+move:  mv  
+make directory:   mkdir  
+delete, remove:   rm   
+delete directory: rm -rf  (recursive force)  
+copy:  cp <from> <to>  
