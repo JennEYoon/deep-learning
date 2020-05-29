@@ -13,7 +13,7 @@ copy:  cp <from> <to>
 Add text string to named file, use right arrow:  
 cat "Hello World!" > file.txt  
 
-concatenate command, cat:  
+Concatenate command, CAT:  
   * View file:  cat file1.txt 
   * View multiple files:  cat file1.txt file2.txt  
   * View all text files in folder:  cat *.txt  
@@ -31,8 +31,7 @@ ECHO command, generally used by batch or script files to print something on the 
 Syntax:  echo [options] [strings]
   * Print output to screen:  echo "Hello"  
   * Redirect output to file:  echo "Test Page" > file1.txt  
-
   * Print all files in folder:  echo *  
   * Print all jpg files:  echo *.jpg  
-
   * Use escaped character interpretation:  echo -e "Test \bBachspaced Word" 
+
