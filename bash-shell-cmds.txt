@@ -11,4 +11,7 @@ copy:  cp <from> <to>
 
 
 Add text string to named file, use right arrow:  
-cat "Hello World," > file.txt  
+cat "Hello World!" > file.txt  
+
+Print output to screen:  
+echo "Hello"  
