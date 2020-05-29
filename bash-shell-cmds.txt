@@ -13,5 +13,8 @@ copy:  cp <from> <to>
 Add text string to named file, use right arrow:  
 cat "Hello World!" > file.txt  
 
+concatenate command, cat:  
+  * View file:  cat file1.txt 
+
 Print output to screen:  
 echo "Hello"  
