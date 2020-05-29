@@ -1,6 +1,6 @@
 # Review of Vanderplas ipython chapter.  
 
-%env - may not work with cpnda environments.  
+%env - may not work with conda environments.  
 
 %debug - to try out. 
 up, down, reverse history, character matching. 
@@ -13,4 +13,4 @@ Nano editor?
 
 %automagic 
 
-profiler
+profiler, %prun  
