@@ -27,9 +27,12 @@ concatenate command, cat:
   * Merge files:   cat "file1.txt" "file2.txt" "file3.txt" > "mergedfile.txt"  
   * Append file (double arrow):   cat "file2.txt" >> "file1.txt"  
   
+ECHO command, generally used by batch or script files to print something on the terminal. 
+Syntax:  echo [options] [strings]
+  * Print output to screen:  echo "Hello"  
+  * Redirect output to file:  echo "Test Page" > file1.txt  
 
-Print output to screen:  
-echo "Hello"  
+  * Print all files in folder:  echo *  
+  * Print all jpg files:  echo *.jpg  
 
-Redirect output to file:  
-echo "Test Page" > file1.txt  
+  * Use escaped character interpretation:  echo -e "Test \bBachspaced Word" 
