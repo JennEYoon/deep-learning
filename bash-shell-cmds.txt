@@ -8,3 +8,7 @@ make directory:   mkdir
 delete, remove:   rm   
 delete directory: rm -rf  (recursive force)  
 copy:  cp <from> <to>  
+
+
+Add text string to named file, use right arrow:  
+cat "Hello World," > file.txt  
