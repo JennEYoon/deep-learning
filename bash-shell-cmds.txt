@@ -30,3 +30,6 @@ concatenate command, cat:
 
 Print output to screen:  
 echo "Hello"  
+
+Redirect output to file:  
+echo "Test Page" > file1.txt  
