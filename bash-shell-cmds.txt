@@ -15,6 +15,11 @@ cat "Hello World!" > file.txt
 
 concatenate command, cat:  
   * View file:  cat file1.txt 
+  * View multiple files:  cat file1.txt file2.txt  
+  * View with line numbers:  cat -n file3.txt  
+  * Create a new file:   cat > newfile.txt  
+  * Copy contents of file1 to newfile:   
+    cat file1.txt > newfile.txt  
 
 Print output to screen:  
 echo "Hello"  
