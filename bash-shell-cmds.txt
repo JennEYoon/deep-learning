@@ -16,17 +16,16 @@ cat "Hello World!" > file.txt
 concatenate command, cat:  
   * View file:  cat file1.txt 
   * View multiple files:  cat file1.txt file2.txt  
-  * View with line numbers:  cat -n file3.txt  
-  * Supress multiple empty lines in output:   cat -s newfile.txt 
   * View all text files in folder:  cat *.txt  
-  
-  View content in reverse order:  tac file1.txt 
-  * View long file with more (pipe):  cat file1.txt | more 
+  * View long file with more (pipe):  cat file1.txt | more
+  * View with line numbers:  cat -n file3.txt 
+  * View with supressed multiple empty lines:   cat -s newfile.txt 
+  * View content in reverse order:  tac file1.txt    
   --- 
   * Create a new file:   cat > newfile.txt  
   * Copy contents of file1 to newfile:  cat file1.txt > newfile.txt  
   * Merge files:   cat "file1.txt" "file2.txt" "file3.txt" > "mergedfile.txt"  
-  * Append file:   cat "file2.txt" >> "file1.txt"  
+  * Append file (double arrow):   cat "file2.txt" >> "file1.txt"  
   
 
 Print output to screen:  
