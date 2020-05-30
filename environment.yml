@@ -1,11 +1,11 @@
 # dlpy 
 # Miniconda3 virtual environment on Ubuntu $WSL, 8 core CPU laptop. 
-# Environment export as of May 22, 2020.  
-# Used for my deep learning practice. 
+# Environment export date May 22, 2020.  
+# Use for my deep learning practice. 
 # Github url: git@github.com:JennEYoon/deep-learning.git  
 # Main pkgs: Python v 3.8.2, Tensorflow v 2.2.0, Tensorflow-datasets v 3.1.0, 
 # keras v 2.3.1, tensorboard v 2.2.1, 
-# numpy, pandas, matplotlib, scipy, scikit-learn, jupyter notebook.  
+# numpy, pandas, matplotlib, scipy, scikit-learn, jupyter notebook, doctest.    
 # ---------------------------  
 name: dlpy
 channels:
