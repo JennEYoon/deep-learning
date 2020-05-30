@@ -10,7 +10,7 @@ input and output number, to re-execute previous command.
 
 %cat 
 Nano editor?  No stands for concatenate, bash command.  
-See cat examples elsewhere.  
+See cat examples in bash-shell-cmds.txt file.  
 
 %automagic 
 
