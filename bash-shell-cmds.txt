@@ -26,9 +26,10 @@ CAT, Concatenate command:
   * Copy contents of file1 to newfile:  cat file1.txt > newfile.txt  
     (Also works with quotes, cat "file1.txt" > "newfile1.txt" )
   * Merge files:   cat "file1.txt" "file2.txt" "file3.txt" > "mergedfile.txt"  
+    (Also works without quotes around filenames!)
   * Append file (double arrow):   cat "file2.txt" >> "file1.txt"  
     (Also works without quotes around filenames!) 
-    - Quotes for file names seem only for merge and append operations. Why? 
+    - Quotes seem optional around file names.  Don't use.  
   
 ECHO command, generally used by batch or script files to print something on the terminal. 
 Syntax:  echo [options] [strings]
