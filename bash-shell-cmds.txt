@@ -37,5 +37,11 @@ Syntax:  echo [options] [strings]
   * Redirect output to file:  echo "Test Page" > file1.txt  
   * Print all files in folder:  echo *  
   * Print all jpg files:  echo *.jpg  
-  * Use escaped character interpretation:  echo -e "Test \bBachspaced Word" 
+  * Use escaped character interpretation:  
+    echo -e "Test \bBachspaced Word" 
+    >TestBackspaced Word. 
+    echo -e "Test \nNewline Word."                         
+    >Test                                                                                                  
+    >Newline Word.
+    
 
