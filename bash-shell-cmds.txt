@@ -10,11 +10,7 @@ delete directory: rm -rf  (recursive force)
 copy:  cp <from> <to>  
 
 
-Add text string to named file, use right arrow:  
-  * cat "Hello World!" > file.txt  
-    (Test, does this work? No, need to create file first)  
-
-Concatenate command, CAT:  
+CAT, Concatenate command:  
   * View file:  cat file1.txt 
   * View multiple files:  cat file1.txt file2.txt  
   * View all text files in folder:  cat *.txt  
@@ -24,6 +20,7 @@ Concatenate command, CAT:
   * View content in reverse order:  tac file1.txt    
   --- 
   * Create a new file:   cat > newfile.txt  
+    (empty line to type text, Control-C to exit)  
   * Copy contents of file1 to newfile:  cat file1.txt > newfile.txt  
   * Merge files:   cat "file1.txt" "file2.txt" "file3.txt" > "mergedfile.txt"  
   * Append file (double arrow):   cat "file2.txt" >> "file1.txt"  
