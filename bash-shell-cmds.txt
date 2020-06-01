@@ -47,4 +47,4 @@ Syntax:  echo [options] [strings]
 To add a line of text to a new file, use ECHO.  To view files use CAT.  
    * echo "Hello World!" > newfile.txt  
    * cat newfile.txt  
-     (echo newifle.txt just prints to screen "newfile.txt")  
+     (echo newfile.txt just prints to screen "newfile.txt")  
