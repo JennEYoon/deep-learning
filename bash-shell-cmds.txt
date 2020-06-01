@@ -11,7 +11,8 @@ copy:  cp <from> <to>
 
 
 Add text string to named file, use right arrow:  
-  * cat "Hello World!" > file.txt  (test, does this work?)*** 
+  * cat "Hello World!" > file.txt  
+    (Test, does this work? No, need to create file first)  
 
 Concatenate command, CAT:  
   * View file:  cat file1.txt 
