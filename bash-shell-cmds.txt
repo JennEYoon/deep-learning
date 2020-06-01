@@ -48,3 +48,7 @@ To add a line of text to a new file, use ECHO.  To view files use CAT.
    * echo "Hello World!" > newfile.txt  
    * cat newfile.txt  
      (echo newfile.txt just prints to screen "newfile.txt")  
+   * cat to add multiline text.  
+     cat > newfile2.txt 
+     >type stuff here, then control-c to exit.  
+     
