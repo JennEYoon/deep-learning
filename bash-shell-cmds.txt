@@ -18,6 +18,7 @@ CAT, Concatenate command:
   * View with line numbers:  cat -n file3.txt 
   * View with supressed multiple empty lines:   cat -s newfile.txt 
   * View content in reverse order:  tac file1.txt    
+  No quotations around file name.  All works.  
   --- 
   * Create a new file:   cat > newfile.txt  
     (empty line to type text, Control-C to exit)  
