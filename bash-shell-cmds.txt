@@ -14,7 +14,8 @@ CAT, Concatenate command:
   * View file:  cat file1.txt 
   * View multiple files:  cat file1.txt file2.txt  
   * View all text files in folder:  cat *.txt  
-  * View long file with more (pipe):  cat file1.txt | more
+  * View long file with more (pipe):  cat file1.txt | more 
+    (Enter or downarrow for more, control-C to exit)  
   * View with line numbers:  cat -n file3.txt 
   * View with supressed multiple empty lines:   cat -s newfile.txt 
   * View content in reverse order:  tac file1.txt    
