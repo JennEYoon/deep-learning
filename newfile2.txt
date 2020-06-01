@@ -1,0 +1,5 @@
+Hello 
+This is a test of newfile2  
+
+
+cat created.
