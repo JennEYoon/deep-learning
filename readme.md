@@ -11,7 +11,7 @@ First create project on local computer, git init and git commits.  Then create r
 
 ### My exercises for Chollet, Deep Learning with Python book  
 
-  * Appendix: setup, tensorflow, keras, GPU on AWS EC2. 
+  * Appendix: setup, tensorflow, keras, GPU on AWS EC2. * Started watching class 5 sequence models.  
     AWS EC2 GPU large instance still too expensive, 70 cents/hour. Use Google CoLAB free GPU instances instead. 
   
   * Chp 9: Conclusions 
