@@ -29,4 +29,9 @@ First create project on local computer, git init and git commits.  Then create r
   * Later weeks more interesting CNN class.  
   * To copy my quiz answers week 1. 
   
+### SciPy July 2020 Conference  
+  * Watch previous years video. 
+  * Do posted notebook tutorials for this year.  
+  * Sprints?  
+  * Geosnap, load and do example notebooks.  
   
