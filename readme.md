@@ -23,4 +23,4 @@ First create project on local computer, git init and git commits.  Then create r
   
 ### Add Coursera DeepLearning.AI class 4 CNN here temporarily.  
   * As of June 1, 2020 Monday, current notebook versions have been copied here.  Will move back to "learn-mldl/dlai" repo when done.  
-  Week 1 quiz #9 question on answers.  
+  * Week 1 quiz #9 question on answers.  
