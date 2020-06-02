@@ -27,4 +27,6 @@ First create project on local computer, git init and git commits.  Then create r
   * Carefully do notebook step by step when I have more patience.  
   * Sub tensorflow intro notebook with version tf 2.2.  Class uses tf 1.2.  
   * Later weeks more interesting CNN class.  
+  * To copy my quiz answers week 1. 
+  
   
