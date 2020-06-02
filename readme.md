@@ -3,7 +3,7 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon
 
-.bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "/work/deep-learning".  Python v 3.8 tensorflow v 2 keras tensorflow-datasets.  
+.bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "/work/deep-learning".  Python v 3.8, tensorflow v 2, keras, tensorflow-datasets.  h5ps already installed. 
 
 Conda3 "base" env uses Python v 3.7. Has deep learning packages for Coursera DLAI class and Stanford CS231n class.  
 
