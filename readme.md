@@ -38,4 +38,4 @@ First create project on local computer, git init and git commits.  Then create r
   * Read getting a ds job book.  
   * SECdataPy projects. 
   * datasciY.com blog add.  
-  
+  * StackOverflow get more points.  
