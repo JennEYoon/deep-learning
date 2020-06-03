@@ -36,4 +36,4 @@ First create project on local computer, git init and git commits.  Then create r
   * Sprints?  
   * Geosnap, load and do example notebooks.  
   * Read getting a ds job book.  
-  
+  * SECdataPy projects. 
