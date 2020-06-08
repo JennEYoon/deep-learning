@@ -29,6 +29,10 @@ First create project on local computer, git init and git commits.  Then create r
   * Sub tensorflow intro notebook with version tf 2.2.  Class uses tf 1.2.  
   * Later weeks more interesting CNN class.  
   * To copy my quiz answers week 1. 
+
+### Move Coursera.org Deep Learning.AI Specialization here permanently.  
+  * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
+
   
 ### SciPy July 2020 Conference  
   * Watch previous years video. 
