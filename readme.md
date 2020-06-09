@@ -32,6 +32,7 @@ First create project on local computer, git init and git commits.  Then create r
 
 ### Move Coursera.org Deep Learning.AI Specialization here permanently.  
   * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
+  * Later - to delete duplicate folder, also remove from "learn-mldl" repo duplicate.  
 
   
 ### SciPy July 2020 Conference  
