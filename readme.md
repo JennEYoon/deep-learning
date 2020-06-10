@@ -22,13 +22,17 @@ First create project on local computer, git init and git commits.  Then create r
   * Chp 5: Convolutional Networks -- has vision recognition examples.  
   
   
-### Add Coursera DeepLearning.AI class 4 CNN here temporarily.  
-  * As of June 1, 2020 Monday, current notebook versions have been copied here.  Will move back to "learn-mldl/dlai" repo when done.  
+### Add Coursera DeepLearning.AI class 4 CNN moved here.  
+  * As of June 1, 2020 Monday, current notebook versions have been copied here.    
   * Week 1 quiz #9 question on answers.  
   * Carefully do notebook step by step when I have more patience.  
   * Sub tensorflow intro notebook with version tf 2.2.  Class uses tf 1.2.  
   * Later weeks more interesting CNN class.  
   * To copy my quiz answers week 1. 
+
+### DLAI Class 3 - Structuring ML Projects  
+  * June 9, 2020 - began rewatching videos, at 9/22 on Youtube playlist.  
+
 
 ### Move Coursera.org Deep Learning.AI Specialization here permanently.  
   * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
