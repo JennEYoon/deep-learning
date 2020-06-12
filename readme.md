@@ -32,7 +32,7 @@ Author: Jennifer E. Yoon
   * To copy my quiz answers week 1. 
   
 #### DLAI class 5: Sequence Models 
-  * 
+  * May 20, 2020 -- started watching videos.  
 
 
 ## Setup and Environment notes  
