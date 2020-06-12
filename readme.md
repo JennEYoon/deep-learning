@@ -38,13 +38,4 @@ First create project on local computer, git init and git commits.  Then create r
   * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
   * Later - to delete duplicate folder, also remove from "learn-mldl" repo duplicate.  
 
-  
-### SciPy July 2020 Conference  
-  * Watch previous years video. 
-  * Do posted notebook tutorials for this year.  
-  * Sprints?  
-  * Geosnap, load and do example notebooks.  
-  * Read getting a ds job book.  
-  * SECdataPy projects. 
-  * datasciY.com blog add.  
-  * StackOverflow get more points.  
+
