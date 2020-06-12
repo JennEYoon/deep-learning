@@ -26,15 +26,13 @@ Author: Jennifer E. Yoon
 #### DLAI class 4 CNN 
   * As of June 1, 2020 Monday, current notebook versions have been copied here.    
   * Week 1 quiz #9 question on answers.  
-  * Carefully do notebook step by step when I have more patience.  
   * Sub tensorflow intro notebook with version tf 2.2.  Class uses tf 1.2.  
-  * Later weeks more interesting CNN class.  
-  * To copy my quiz answers week 1. 
+  * Next, finish week 3 and 4 notebooks. Style Transfer, Face Recognition.  
   
 #### DLAI class 5: Sequence Models 
   * May 20, 2020 -- started watching videos.  
 
-
+---  
 ## Setup and Environment notes  
 
 .bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "/work/deep-learning".  Python v 3.8, tensorflow v 2, keras, tensorflow-datasets.  Coursera uses hdf5 data library - already installed.  Doctest and Pandocs already installed - use for my testing.  Later install unittest.  
