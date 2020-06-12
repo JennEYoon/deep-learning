@@ -9,7 +9,7 @@ Conda3 "base" env uses Python v 3.7. Has deep learning packages for Coursera DLA
 
 First create project on local computer, git init and git commits.  Then create repo on Github, without any readme or license files. Copy SSH id.  On local machine, git remote add origin master, paste URL.  git push commits.  
 
-### My exercises for Chollet, Deep Learning with Python book  
+## My exercises for Chollet, Deep Learning with Python book  
 
   * Appendix: setup, tensorflow, keras, GPU on AWS EC2. * Started watching class 5 sequence models.  
     AWS EC2 GPU large instance still too expensive, 70 cents/hour. Use Google CoLAB free GPU instances instead. 
@@ -21,8 +21,15 @@ First create project on local computer, git init and git commits.  Then create r
   
   * Chp 5: Convolutional Networks -- has vision recognition examples.  
   
+
+## Move Coursera.org Deep Learning.AI Specialization here permanently.  
+  * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
+  * Later - to delete duplicate folder, also remove from "learn-mldl" repo duplicate.  
+
+#### DLAI Class 3 - Structuring ML Projects  
+  * June 9, 2020 - began rewatching videos, at 9/22 on Youtube playlist.  
   
-### Add Coursera DeepLearning.AI class 4 CNN moved here.  
+#### Coursera DeepLearning.AI class 4 CNN moved here.  
   * As of June 1, 2020 Monday, current notebook versions have been copied here.    
   * Week 1 quiz #9 question on answers.  
   * Carefully do notebook step by step when I have more patience.  
@@ -30,12 +37,8 @@ First create project on local computer, git init and git commits.  Then create r
   * Later weeks more interesting CNN class.  
   * To copy my quiz answers week 1. 
 
-### DLAI Class 3 - Structuring ML Projects  
-  * June 9, 2020 - began rewatching videos, at 9/22 on Youtube playlist.  
 
 
-### Move Coursera.org Deep Learning.AI Specialization here permanently.  
-  * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
-  * Later - to delete duplicate folder, also remove from "learn-mldl" repo duplicate.  
+
 
 
