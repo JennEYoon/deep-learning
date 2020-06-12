@@ -15,7 +15,7 @@ Author: Jennifer E. Yoon
   
   * Chp 5: Convolutional Networks -- has vision recognition examples.  
   
-
+ ---   
 ## Coursera.org Deep Learning.AI Specialization - moved here  
   * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
   * Later - to delete duplicate folder, also remove from "learn-mldl" repo duplicate.  
