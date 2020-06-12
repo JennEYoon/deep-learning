@@ -30,7 +30,7 @@ Author: Jennifer E. Yoon
   * Next, finish week 3 and 4 notebooks. Style Transfer, Face Recognition.  
   
 #### DLAI class 5: Sequence Models 
-  * May 20, 2020 -- started watching videos.  
+  * May 23, 2020 -- started watching videos.  
 
 ---  
 ## Setup and Environment notes  
