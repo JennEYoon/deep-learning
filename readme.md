@@ -23,13 +23,17 @@ Author: Jennifer E. Yoon
 #### DLAI Class 3 - Structuring ML Projects  
   * June 9, 2020 - began rewatching videos, at 9/22 on Youtube playlist.  
   
-#### Coursera DeepLearning.AI class 4 CNN moved here.  
+#### DLAI class 4 CNN 
   * As of June 1, 2020 Monday, current notebook versions have been copied here.    
   * Week 1 quiz #9 question on answers.  
   * Carefully do notebook step by step when I have more patience.  
   * Sub tensorflow intro notebook with version tf 2.2.  Class uses tf 1.2.  
   * Later weeks more interesting CNN class.  
   * To copy my quiz answers week 1. 
+  
+#### DLAI class 5: Sequence Models 
+  * 
+
 
 ## Setup and Environment notes  
 
