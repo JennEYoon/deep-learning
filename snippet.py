@@ -1,6 +1,4 @@
-# test.py
-
-
+# snippet.py
 import sys
 import numpy as np 
 
