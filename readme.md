@@ -15,7 +15,7 @@ Author: Jennifer E. Yoon
   
   * Chp 5: Convolutional Networks -- has vision recognition examples.  
   
- ---   
+---     
 ## Coursera.org Deep Learning.AI Specialization - moved here  
   * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
   * Later - to delete duplicate folder, also remove from "learn-mldl" repo duplicate.  
@@ -34,6 +34,9 @@ Author: Jennifer E. Yoon
 
 ---  
 ## Setup and Environment notes  
+
+  * June 17, 2020 1:00 AM - moved local repo to C drive, Google Drive backup does not work well with Ubuntu "network" drive, can only backup as Photos, makes all other file folders as Photos.  
+  * deep-learning repo - recloned and tested on C:\python\repos\deep-learning\  
 
 .bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "/work/deep-learning".  Python v 3.8, tensorflow v 2, keras, tensorflow-datasets.  Coursera uses hdf5 data library - already installed.  Doctest and Pandocs already installed - use for my testing.  Later install unittest.  
 
