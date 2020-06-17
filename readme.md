@@ -35,7 +35,7 @@ Author: Jennifer E. Yoon
 ---  
 ## Setup and Environment notes  
 
-  * June 17, 2020 1:00 AM - moved local repo to C drive, Google Drive backup does not work well with Ubuntu "network" drive, can only backup as Photos, makes all other file folders as Photos.  
+  * June 17, 2020 1:00 AM - moved local repo to C drive, Google Drive backup does not work well with Ubuntu "network" drive, can only backup as Photos, forces other file folders to backup as Photos.  
   * deep-learning repo - recloned and tested on C:\python\repos\deep-learning\  
 
 .bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "/work/deep-learning".  Python v 3.8, tensorflow v 2, keras, tensorflow-datasets.  Coursera uses hdf5 data library - already installed.  Doctest and Pandocs already installed - use for my testing.  Later install unittest.  
