@@ -6,6 +6,13 @@ cpy:   "cd /mnt/c/python"
 uwork: "cd ~/work"  
 adlpy: "deactivate conda; activate conda dlpy; cd ~/work/deep-learning"
 
+To goto C drive from Ubuntu:  
+cd /mnt/c/python 
+cd /mnt/c
+
+To goto Ubuntu drive from C:  
+cd ~ or cd $home 
+cd ~/work  (Need slash before "work")
 
 current directory:  ./  or .   
 parent directory:   ../  or  ..  
