@@ -1,0 +1,9 @@
+# Useful git commands  
+
+# List all branches, including remote branches  
+git branch -a 
+
+# git force push (to make remote match local repo history)  
+
+# git reset HEAD~6 ...(to delete recent 6 commits from local repo history)
+
