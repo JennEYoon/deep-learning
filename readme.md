@@ -35,6 +35,9 @@ Author: Jennifer E. Yoon
 ---  
 ## Setup and Environment notes  
 
+  * June 20, 2020 -- Use **conda env dlpy** on Ubuntu-side to run python.  
+      - Even though repo is stored on C drive (for Google Drive backup), can run from Ubuntu terminal using conda3 Ubuntu version. 
+  * June 20, 2020 -- merged with Ubuntu repo version.  Ubuntu side repo deleted. 
   * June 17, 2020 1:00 AM - moved local repo to C drive, Google Drive backup does not work well with Ubuntu "network" drive, can only backup as Photos, forces other file folders to backup as Photos.  
   * deep-learning repo - recloned and tested on C:\python\repos\deep-learning\  
 
