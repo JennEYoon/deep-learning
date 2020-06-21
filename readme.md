@@ -45,6 +45,13 @@ Author: Jennifer E. Yoon
 
 Conda3 "base" env uses Python v 3.7. Has deep learning packages for Coursera DLAI class and Stanford CS231n class.  
 
+### To use dlpy on Ubuntu-side:  
+
+From Ubuntu terminal: "code" to start VS-Code-Ubuntu version.    
+Select Python interpreter, "~/home/conda3/envs/dlpy/bin/...  
+Open deep-learning file from C: File - Open - (show local button)  
+Run selection in Python Terminal (Shift+Alt+Enter) -- will activate dlpy and run code lines.  
+  * From there on, all python modules imported come from "dlpy" Ubuntu environment.  
 
 
 
