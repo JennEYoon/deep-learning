@@ -16,9 +16,9 @@ Author: Jennifer E. Yoon
   * Chp 5: Convolutional Networks -- has vision recognition examples.  
   
 ---     
+
 ## Coursera.org Deep Learning.AI Specialization - moved here  
-  * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo on Github.  
-  * Later - to delete duplicate folder, also remove from "learn-mldl" repo duplicate.  
+  * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo - Done.  
 
 #### DLAI Class 3 - Structuring ML Projects  
   * June 9, 2020 - began rewatching videos, at 9/22 on Youtube playlist.  
@@ -33,6 +33,7 @@ Author: Jennifer E. Yoon
   * May 23, 2020 -- started watching videos.  
 
 ---  
+
 ## Setup and Environment notes  
 
   * June 20, 2020 -- Use **conda env dlpy** on Ubuntu-side to run python.  
@@ -45,13 +46,14 @@ Author: Jennifer E. Yoon
 
 Conda3 "base" env uses Python v 3.7. Has deep learning packages for Coursera DLAI class and Stanford CS231n class.  
 
-### To use dlpy on Ubuntu-side:  
+### Use conda env "dlpy" on Ubuntu, CPU x86 laptop:  
 
-From Ubuntu terminal: "code" to start VS-Code-Ubuntu version.    
-Select Python interpreter, "~/home/conda3/envs/dlpy/bin/...  
-Open deep-learning file from C: File - Open - (show local button)  
-Run selection in Python Terminal (Shift+Alt+Enter) -- will activate dlpy and run code lines.  
-  * From there on, all python modules imported come from "dlpy" Ubuntu environment.  
+  * From Ubuntu terminal, type "code" to start VS-Code-Ubuntu version.    
+  * From VS-Code, Select Python Interpreter, "~/home/conda3/envs/dlpy/bin/...  
+  * Open deep-learning file from C drive:  File - Open - (show local files button)  
+  * Select python code lines, then: Run selection in Python Terminal (Shift+Alt+Enter)  
+      - will activate **dlpy env** on Ubuntu and run selected code lines.  
+  * From there on, all python modules imported will be "dlpy" Ubuntu versions.  
 
 
 
