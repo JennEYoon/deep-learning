@@ -17,10 +17,9 @@ Author: Jennifer E. Yoon
   
 ---     
 
-## Coursera.org Deep Learning.AI Specialization - moved here  
-  * June 8, 2020 start transfer of files from "learn-mldl" repo to "deep-learning" repo - Done.  
+## Coursera.org Deep Learning.AI Specialization - moved here from "learn-mldl" repo.   
   
- ***Coursera, Deep Learning AI Specialization:***       
+#### Class Links: Coursera, Deep Learning AI Specialization:       
       https://www.coursera.org/specializations/deep-learning?  
       
  * Class 1: Neural Networks and Deep Learning   
@@ -37,6 +36,8 @@ Author: Jennifer E. Yoon
       https://www.coursera.org/learn/introduction-tensorflow  
       
 ---  
+
+Progress Notes:  
 
 #### DLAI Class 3 - Structuring ML Projects  
   * June 9, 2020 - began rewatching videos, at 9/22 on Youtube playlist.  
