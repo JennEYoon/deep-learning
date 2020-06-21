@@ -37,7 +37,7 @@ Author: Jennifer E. Yoon
       
 ---  
 
-Progress Notes:  
+## Progress Notes:  
 
 #### DLAI Class 3 - Structuring ML Projects  
   * June 9, 2020 - began rewatching videos, at 9/22 on Youtube playlist.  
@@ -66,6 +66,7 @@ Progress Notes:
 Conda3 "base" env uses Python v 3.7. Has deep learning packages for Coursera DLAI class and Stanford CS231n class.  
 
 ### Use conda env "dlpy" on Ubuntu, CPU x86 laptop:  
+Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.    
 
   * From Ubuntu terminal, type "code" to start VS-Code-Ubuntu version.    
   * From VS-Code, Select Python Interpreter, "~/home/conda3/envs/dlpy/bin/...  
@@ -74,7 +75,7 @@ Conda3 "base" env uses Python v 3.7. Has deep learning packages for Coursera DLA
       - will activate **dlpy env** on Ubuntu and run selected code lines.  
   * From there on, all python modules imported will be "dlpy" Ubuntu versions.  
   
-Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.    
+
 
 
 
