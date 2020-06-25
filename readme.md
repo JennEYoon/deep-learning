@@ -74,8 +74,11 @@ Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.
   * Select python code lines, then: Run selection in Python Terminal (Shift+Alt+Enter)  
       - will activate **dlpy env** on Ubuntu and run selected code lines.  
   * From there on, all python modules imported will be "dlpy" Ubuntu versions.  
+  
+***tensorflow_datasets:***  
   * Downloaded tensorflow datasets saved on Ubuntu side:  
-     \\wsl$\Ubuntu\home\jyoon\tensrflow_datasets\    
+     //wsl$/Ubuntu/home/jyoon/tensrflow_datasets   
+     or ~/tensorflow_datasets  
   
 
 
