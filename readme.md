@@ -3,6 +3,8 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon
 
+***move "master" to "main" branch
+
 ## My exercises for Chollet, Deep Learning with Python book  
 
   * Appendix: setup, tensorflow, keras, GPU on AWS EC2. * Started watching class 5 sequence models.  
