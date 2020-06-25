@@ -1,0 +1,13 @@
+Environment dlpy for deep learning with Python and others  
+
+Latest Python v 3.8.2  
+
+Installed matplotlib, pandas, numpy, jupyter notebook, scipy, scikit-learn, 
+tensorflow v 2.2, (with tensorboard)
+
+To install keras -- can't. Too many conflicts with tensorflow 2.2.    
+OK install using "pip install keras"
+
+May 22, 2020: Installed tensorflow-datasets module v 3.1.0  
+> pip install tensorflow-datasets 
+
