@@ -1,0 +1,1 @@
+test after moving local repo, new clone
