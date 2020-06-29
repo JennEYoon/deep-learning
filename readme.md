@@ -3,7 +3,7 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon
 
-***move "master" to "main" branch
+***Note: Renamed "master" to "main" branch, Black Lives Matter support, June 2020***
 
 ## My exercises for Chollet, Deep Learning with Python book  
 
