@@ -5,7 +5,9 @@ Author: Jennifer E. Yoon
 
 ***Note: Renamed "master" to "main" branch, Black Lives Matter support, June 2020***
 
-## My exercises for Chollet, Deep Learning with Python book  
+---  
+
+### I. My exercises for Chollet, Deep Learning with Python book  
 
   * Appendix: setup, tensorflow, keras, GPU on AWS EC2. * Started watching class 5 sequence models.  
     AWS EC2 GPU large instance still too expensive, 70 cents/hour. Use Google CoLAB free GPU instances instead. 
@@ -19,7 +21,7 @@ Author: Jennifer E. Yoon
   
 ---     
 
-## Coursera.org Deep Learning.AI Specialization - moved here from "learn-mldl" repo.   
+### II. Coursera.org Deep Learning.AI Specialization - moved here from "learn-mldl" repo.   
   
 #### Class Links: Coursera, Deep Learning AI Specialization:       
       https://www.coursera.org/specializations/deep-learning?  
@@ -35,11 +37,9 @@ Author: Jennifer E. Yoon
  * Class 5: Sequence Models    
    
  * Additional class: Introduction to TensorFlow  
-      https://www.coursera.org/learn/introduction-tensorflow  
-      
----  
+      https://www.coursera.org/learn/introduction-tensorflow 
 
-## Progress Notes:  
+### Progress Notes:  
 
 #### DLAI Class 3 - Structuring ML Projects  
   * June 9, 2020 - began rewatching videos, at 9/22 on Youtube playlist.  
@@ -55,7 +55,7 @@ Author: Jennifer E. Yoon
 
 ---  
 
-## Setup and Environment notes  
+### III. Setup and Environment notes  
 
   * June 25, 2020 -- rename **master** branch to **main**.  
   * June 20, 2020 -- Use **conda env dlpy** on Ubuntu-side to run python.  
@@ -63,12 +63,10 @@ Author: Jennifer E. Yoon
   * June 20, 2020 -- merged with Ubuntu repo version.  Ubuntu side repo deleted. 
   * June 17, 2020 1:00 AM - moved local repo to C drive, Google Drive backup does not work well with Ubuntu "network" drive, can only backup as Photos, forces other file folders to backup as Photos.  
   * deep-learning repo - recloned and tested on C:\python\repos\deep-learning\  
+  * .bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "/work/deep-learning".  Python v 3.8, tensorflow v 2, keras, tensorflow-datasets.  Coursera uses hdf5 data library - already installed.  Doctest and Pandocs already installed - use for my testing.  Later install unittest.  
+  * Conda3 "base" env uses Python v 3.7. Has deep learning packages for Coursera DLAI class and Stanford CS231n class.  
 
-.bashrc alias: "adlpy" changes active conda env to "dlpy" and changes working directory to "/work/deep-learning".  Python v 3.8, tensorflow v 2, keras, tensorflow-datasets.  Coursera uses hdf5 data library - already installed.  Doctest and Pandocs already installed - use for my testing.  Later install unittest.  
-
-Conda3 "base" env uses Python v 3.7. Has deep learning packages for Coursera DLAI class and Stanford CS231n class.  
-
-### Use conda env "dlpy" on Ubuntu, CPU x86 laptop:  
+#### Use conda env "dlpy" on Ubuntu, CPU x86 laptop:  
 Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.    
 
   * From Ubuntu terminal, type "code" to start VS-Code-Ubuntu version.    
@@ -78,13 +76,8 @@ Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.
       - will activate **dlpy env** on Ubuntu and run selected code lines.  
   * From there on, all python modules imported will be "dlpy" Ubuntu versions.  
   
-***tensorflow_datasets:***  
+#### tensorflow_datasets:    
   * Downloaded tensorflow datasets saved on Ubuntu side:  
      //wsl$/Ubuntu/home/jyoon/tensrflow_datasets   
      or ~/tensorflow_datasets  
   
-
-
-
-
-
