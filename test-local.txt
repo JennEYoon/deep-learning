@@ -1,2 +1,0 @@
-moved to c: testing local repo
-edit from remote 
