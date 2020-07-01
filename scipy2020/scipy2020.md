@@ -8,6 +8,14 @@ https://www.scipy2020.scipy.org/tutorial-information
 #### numpy tutorial  
 
   * https://github.com/enthought/Numpy-Tutorial-SciPyConf-2020  
+  
+#### Pytorch - Deep Learning from Scratch    
+  
+  * https://github.com/hugobowne/deep-learning-from-scratch-pytorch  
+  
+#### Bayesian Statistics Programming    
+  
+  * https://github.com/ericmjl/bayesian-stats-modelling-tutorial  
 
 #### pysal tutorial  
 
