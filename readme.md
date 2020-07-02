@@ -3,7 +3,7 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon
 
-***Note: Renamed "master" to "main" branch, Black Lives Matter support, June 2020***
+***Note: Renamed "master" to "main" branch in support of Black Lives Matter, June 2020***
 
 ---  
 
