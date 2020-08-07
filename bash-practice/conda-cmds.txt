@@ -1,8 +1,0 @@
-# Useful conda commands  
-
-# List all conda envs  
-conda info --envs  
-
-# To update python version, need to reinstall:  
-conda install -n envname python=3.8  
-(check)
