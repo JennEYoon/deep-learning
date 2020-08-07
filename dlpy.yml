@@ -6,6 +6,7 @@
 # Main pkgs: Python v 3.8.2, Tensorflow v 2.2.0, Tensorflow-datasets v 3.1.0, 
 # keras v 2.3.1, tensorboard v 2.2.1, 
 # numpy, pandas, matplotlib, scipy, scikit-learn, jupyter notebook, doctest.    
+### Added PyTorch v 1.6 on 8/5/2020.  
 # ---------------------------  
 name: dlpy
 channels:
@@ -165,5 +166,6 @@ dependencies:
     - urllib3==1.25.9
     - werkzeug==1.0.1
     - wrapt==1.12.1
-prefix: /home/jyoon/conda3/envs/dlpy
+prefix: /home/jyoon/conda3/envs/dlpy  
+# pytorch v 1.6 added 8/5/2020
 
