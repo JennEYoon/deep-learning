@@ -9,8 +9,9 @@ Author: Jennifer E. Yoon
 
 ### I. My exercises for Chollet, Deep Learning with Python book  
 
-  * Appendix: setup, tensorflow, keras, GPU on AWS EC2. * Started watching class 5 sequence models.  
-    AWS EC2 GPU large instance still too expensive, 70 cents/hour. Use Google CoLAB free GPU instances instead. 
+  * Appendix: setup, tensorflow, keras, GPU on AWS EC2.   
+    AWS EC2 GPU large instance still too expensive in May 2020, 70 cents/hour.    
+    Use Google CoLAB free GPU instances instead.  
   
   * Chp 9: Conclusions 
     Key Concepts Review, how to keep-up with new developments, future of deep learning, limitations of deep learning
@@ -35,9 +36,10 @@ Author: Jennifer E. Yoon
  * Class 4: Convolutional Neural Networks   
    
  * Class 5: Sequence Models    
-   
- * Additional class: Introduction to TensorFlow  
-      https://www.coursera.org/learn/introduction-tensorflow 
+   GIT_COMMITTER_DATE="Jun 26, 2020 12:00 PM EST" git commit --amend --no-edit --date "Jun 26, 2020 12:00 PM EST"
+GIT_COMMITTER_DATE="Jun 26, 2020 12:00 PM EST" git commit --amend --no-edit --date "Jun 26, 2020 12:00 PM EST"
+####  Additional class: Complete Tensorflow 2 - Udemy, Jose Portilla  
+  * I signed  up 8/6/2020, guest account       
 
 ### Progress Notes:  
 
