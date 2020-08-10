@@ -81,3 +81,6 @@ Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.
      //wsl$/Ubuntu/home/jyoon/tensrflow_datasets   
      or ~/tensorflow_datasets  
   
+#### PyTorch v1.6 installed on "dlpy" env, ubuntu side, July 2020   
+  * Use wuth Udacity Pytorch intro, SciPy 2020 PyTorch tutorial  
+  
