@@ -39,10 +39,11 @@ Author: Jennifer E. Yoon
 
 ---  
 
-###  III. Other classes, Udemy mostly.  
+###  III. Other Classes  
 
-  * Complete Tensorflow 2 - Udemy, Jose Portilla  
-    - I signed  up 8/6/2020     
+  * PyTorch - Tutorial from SciPy 2020  
+  
+  * PyTorch - Udacity Introduction, free class, Meetup NOVA  
 
 ---  
 
