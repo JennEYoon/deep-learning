@@ -7,6 +7,7 @@
 # keras v 2.3.1, tensorboard v 2.2.1, 
 # numpy, pandas, matplotlib, scipy, scikit-learn, jupyter notebook, doctest.    
 ### Added PyTorch v 1.6 on 8/5/2020.  
+### Need to update env export, to include PyTorch. 
 # ---------------------------  
 name: dlpy
 channels:
