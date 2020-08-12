@@ -22,7 +22,8 @@ Author: Jennifer E. Yoon
   
 ---     
 
-### II. Coursera.org Deep Learning.AI Specialization - moved here from "learn-mldl" repo.   
+### II. Coursera.org Deep Learning.AI Specialization  
+(moved here from "learn-mldl" repo)     
   
 #### Class Links: Coursera, Deep Learning AI Specialization:       
       https://www.coursera.org/specializations/deep-learning?  
@@ -49,6 +50,6 @@ Author: Jennifer E. Yoon
 
 ###  IV. Setup, Environment:  
 
-  * Use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
+  * I use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
-  * PyTorch v 1.6 stable installed in July 2020, to "dlpy" conda virtual environment.  
+  * PyTorch v 1.6 stable installed in July 2020, to "dlpy" conda virtual environment on Ubuntu (WSL).  
