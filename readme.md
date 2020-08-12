@@ -37,14 +37,17 @@ Author: Jennifer E. Yoon
    
  * Class 5: Sequence Models    
 
+---  
 
 ###  III. Other classes, Udemy mostly.  
 
   * Complete Tensorflow 2 - Udemy, Jose Portilla  
     - I signed  up 8/6/2020     
 
-### Setup, Environment:  
+---  
 
-  * Use conda env "dlpy" on Ubuntu, CPU x86 laptop:  
+###  IV. Setup, Environment:  
+
+  * Use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
   * PyTorch v 1.6 stable installed in July 2020, to "dlpy" conda virtual environment.  
