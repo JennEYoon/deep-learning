@@ -50,6 +50,11 @@ Author: Jennifer E. Yoon
    - https://www.youtube.com/watch?v=ZMquKs-M4eE&t=377s  A student's perspective   
    - https://www.youtube.com/watch?v=YlShTBwxN7k  SE interview JH  
 
+Follow:
+Radek:
+https://twitter.com/radekosmulski
+https://medium.com/@radekosmulski
+https://www.kaggle.com/radek1
 
   * PyTorch - Tutorial from SciPy 2020  
   
