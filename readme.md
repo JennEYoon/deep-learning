@@ -54,6 +54,10 @@ Follow Radek:
  https://twitter.com/radekosmulski  
  https://medium.com/@radekosmulski  
  https://www.kaggle.com/radek1  
+ 
+ * Concentrated 1.5-2 hours is much more effective than 30 minute increments. Software takes a long time to load all the context into memory.  Distractions takes away the context loading, and this needs to be done all over again.  Work in separate space with NO DISTRACTIONS.  Remove all bookmarks that will distract you.  Time management requires you to clear your calendar of all things except 1 or 2 items, at most.  What you take out is the most important secret to time management.  Redec closed Facebook.  Me, I never got involved with it.  For me - watching political news has been the time waster, ever since Trump was running for office in June 2015.  Some of this is necessary to be an informed voter and citizen, but it's gone far, way over, the mark where the time wasted turns distructive.  
+ 
+  * Created a carefully curated list of podcasts and youtubes I will watch per week, and stick to those schedule.  Don't keep watching like a zombie.  Same for audiobooks.  Create a budget for fun or relaxing books, and follow those time budgets.  For non-fiction, I can allow more time.  Usually don't have a problem of wasting time with non-fiction books.  
 
   * PyTorch - Tutorial from SciPy 2020  
   
