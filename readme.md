@@ -42,6 +42,12 @@ Author: Jennifer E. Yoon
 
 ###  III. Other Classes  
 
+  * fast.ai deep learning classes revisit.  https://github.com/fastai/fastbook  
+  
+    Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum 1 year concentrated coding experience in any language.  I came across Jeremy Howard's interview again on YouTube, and it peaked my interest again.  Now might be a good time to pick this up again.  There is also a book form, which makes it easier to condense the video lectures.  
+
+
+
   * PyTorch - Tutorial from SciPy 2020  
   
   * PyTorch - Udacity Introduction, free class, Meetup NOVA  
