@@ -44,7 +44,7 @@ Author: Jennifer E. Yoon
 
   * fast.ai deep learning classes revisit, August 2020.  
   
-    Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum required 1 year of focused coding experience in any language.  I came across Jeremy Howard's interview again on YouTube, and it peaked my interest again.  Now [8/2020] might be a good time to pick this up again.  There is also a book form.  It seems to be a good condensed and coordinated version of the video lectures.  Andrew Ng's DeepLearning.AI series on Coursera.org is also helping.  I can understand fast.ai notebooks much better, after doing Coursera's deep learning series.    
+    Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum required 1 year of focused coding experience in any language.  I came across Jeremy Howard's interviews on YouTube, and it peaked my interest again.  Now might be a good time to pick this up again.  There is also fastai in a book form, which is a new development.  It seems to be a condensed and coordinated version of the video lectures and a good reference.  Andrew Ng's DeepLearning.AI series on Coursera.org is also helping me.  I can understand fast.ai notebooks much better, after doing Coursera's deep learning classes.    
     
    - https://github.com/fastai/fastbook   fastai book 
    - https://www.youtube.com/watch?v=J6XcP4JOHmk&t=1s  Lex interview Jeremy Howard   
