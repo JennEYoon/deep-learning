@@ -1,4 +1,4 @@
-# My second attempt at fast.ai deep learning courses, 2020 version.  
+# My second attempt at fast.ai courses in deep learning - 2020.  
 
 https://github.com/fastai/fastbook  
 good book, nicely condenses concepts in videos.  
