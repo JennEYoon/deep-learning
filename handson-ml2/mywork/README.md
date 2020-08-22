@@ -1,4 +1,4 @@
-# My Exercises and Extensions - Hands On Machine Learning, 2nd edition book.  
+# My notes. # My Exercises and Extensions - Hands On Machine Learning, 2nd edition book.  
 
 Book Source links: 
  * Github notebooks:  https://github.com/ageron/handson-ml2  
