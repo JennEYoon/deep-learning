@@ -1,30 +1,67 @@
-# My Exercises and Extensions - Hands On Machine Learning, 2nd edition book.  
+Machine Learning Notebooks
+==========================
 
-Book Source links: 
- * Github notebooks:  https://github.com/ageron/handson-ml2  
- * nbviewer version of Jupyter notebooks:  https://nbviewer.jupyter.org/github/ageron/handson-ml2/blob/master/index.ipynb  
+This project aims at teaching you the fundamentals of Machine Learning in
+python. It contains the example code and solutions to the exercises in the second edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
 
- * Amazon kindle book link:  https://www.amazon.com/gp/product/B07XGF2G87?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=5KAD64A6GQ5ADBP7A78R  
- * O'Reilly doesn't have a link to buy the book, only for Safari subscription access.  
+<img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
 
-O'Reilly seems to have stopped selling books directly to readers.  Seems like a good choice since the quality of their print books has gone done in the last five years.  I had complained to them for the blurry and faint text from their books.  Now they are a conference and online education organizer and tech books publisher.  This is more in line with their core competency.  
+**Note**: If you are looking for the first edition notebooks, check out [ageron/handson-ml](https://github.com/ageron/handson-ml).
 
-#### My Notes, Date November 11, 2019.  
+## Quick Start
 
-Put my own reproduced work here.  Maybe extend some notebook.
-Later, post some of the notebook on my project page at datasciY.com. 
+### Want to play with these notebooks online without having to install anything?
+Use any of the following services.
 
-Cloned repo is in my "c:/python/work/w_handsonML2" folder.  
-2019 June first published.
+**WARNING**: Please be aware that these services provide temporary environments: anything you do will be deleted after a while, so make sure you download any data you care about.
 
-Has a lot of confirmed errata, so the book seems to have gone to press without correcting many of the mistakes.  Maybe don't buy the physical book anymore.  Have ebook early release version.  This may be sufficient, since even the published version has many errata.  
+* **Recommended**: open this repository in [Colaboratory](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/):
+<a href="https://colab.research.google.com/github/ageron/handson-ml2/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
 
- * #2 notebook - full-cycle - housing prices, too generic dataset, but includes deep learning.  Look into it, and do a better project.  Only use certain houses to see if I can get an advantage in housing price prediction.  
+* Or open it in [Binder](https://mybinder.org/v2/gh/ageron/handson-ml2/master):
+<a href="https://mybinder.org/v2/gh/ageron/handson-ml2/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
 
- * Update 11/18/2019 - Moved book to wip2-classes folder.  
+  * _Note_: Most of the time, Binder starts up quickly and works great, but when handson-ml2 is updated, Binder creates a new environment from scratch, and this can take quite some time.
 
-#### 8/22/2020 bought Kindle version, $33 with $4 coupon savings.  
-  * 6th printing 8/15/2020 - corrected many errata, corrected math formatting problems in Kindle version.  
-  * Has pretty good DL Part 2.  
-  * Part 1 is good for reviewing basics with Python instead of R.  
+* Or open it in [Deepnote](https://beta.deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml2/blob/master/index.ipynb):
+<a href="https://beta.deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml2/blob/master/index.ipynb"><img src="https://www.deepnote.com/static/illustration.png" width="150" /></a>
 
+### Just want to quickly look at some notebooks, without executing any code?
+
+Browse this repository using [jupyter.org's notebook viewer](https://nbviewer.jupyter.org/github/ageron/handson-ml2/blob/master/index.ipynb):
+<a href="https://nbviewer.jupyter.org/github/ageron/handson-ml2/blob/master/index.ipynb"><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>
+
+_Note_: [github.com's notebook viewer](index.ipynb) also works but it is slower and the math equations are not always displayed correctly.
+
+### Want to run this project using a Docker image?
+Read the [Docker instructions](https://github.com/ageron/handson-ml2/tree/master/docker).
+
+### Want to install this project on your own machine?
+
+Start by installing [Anaconda](https://www.anaconda.com/distribution/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)), [git](https://git-scm.com/downloads), and if you have a TensorFlow-compatible GPU, install the [GPU driver](https://www.nvidia.com/Download/index.aspx).
+
+Next, clone this project by opening a terminal and typing the following commands (do not type the first `$` signs on each line, they just indicate that these are terminal commands):
+
+    $ git clone https://github.com/ageron/handson-ml2.git
+    $ cd handson-ml2
+
+If you want to use a GPU, then edit `environment.yml` (or `environment-windows.yml` on Windows) and replace `tensorflow=2.0.0` with `tensorflow-gpu=2.0.0`. Also replace `tensorflow-serving-api==2.0.0` with `tensorflow-serving-api-gpu==2.0.0`.
+
+Next, run the following commands:
+
+    $ conda env create -f environment.yml # or environment-windows.yml on Windows
+    $ conda activate tf2
+    $ python -m ipykernel install --user --name=python3
+
+Then if you're on Windows, run the following command:
+
+    $ pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
+
+Finally, start Jupyter:
+
+    $ jupyter notebook
+
+If you need further instructions, read the [detailed installation instructions](INSTALL.md).
+
+## Contributors
+I would like to thank everyone who contributed to this project, either by providing useful feedback, filing issues or submitting Pull Requests. Special thanks go to Haesun Park who helped on some of the exercise solutions, and to Steven Bunkley and Ziembla who created the `docker` directory. Thanks as well to github user SuperYorio for helping out on the coding exercise solutions.
