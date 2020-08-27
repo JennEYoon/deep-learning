@@ -11,7 +11,7 @@ Author: Jennifer E. Yoon
 
   * Appendix: setup, tensorflow, keras, GPU on AWS EC2.   
     AWS EC2 GPU large instance still too expensive in May 2020, 70 cents/hour.    
-    Use Google CoLAB free GPU instances instead.  
+    Use Google Colab free GPU instances instead. (My free $300 credit expired unused in April 2020.)  
   
   * Chp 9: Conclusions 
     Key Concepts Review, how to keep-up with new developments, future of deep learning, limitations of deep learning
