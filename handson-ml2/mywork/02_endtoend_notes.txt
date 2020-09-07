@@ -1,9 +1,0 @@
-Need to copy or download
-
-data files
-image files
-
-Load libraries
-
-VS Code - auto activates conda pyfin - my base conda environment.  
-Auto-converts .ipynb into notebook viewer/interactive kernel.  
