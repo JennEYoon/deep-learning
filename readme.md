@@ -51,12 +51,13 @@ Author: Jennifer E. Yoon
 
 #### PyTorch:  
 
+  * Udemy - PyTorch Complete class - Jose Portilla  
+    * Has pytorch.yml, but can use "dlpy" env. Check if all libraries present.  
+  
   * PyTorch - Tutorial from SciPy 2020  
   
-  * PyTorch - Udacity Introduction, free class, Meetup NOVA  
-  
-  * Udemy - PyTorch Complete class - Jose Portilla  
-
+  * PyTorch - Udacity Introduction, free class, Meetup NOVA Deep Learning (other one)      
+ 
 ---  
 
 ###  IV. Setup, Environment:  
