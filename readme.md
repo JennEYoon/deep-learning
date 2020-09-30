@@ -7,7 +7,14 @@ Author: Jennifer E. Yoon
 
 ---  
 
-### I. My exercises for Chollet, Deep Learning with Python book  
+### I. fast.ai 2020 version, Practical Deep Learning for Coders:  
+
+  * fast.ai deep learning classes revisit, August 2020.  
+    Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum required 1 year of focused coding experience in any language.  I came across Jeremy Howard's interviews on YouTube, and it peaked my interest again.  Now might be a good time to pick this up again.  There is also fastai in a book form, which is a new development.  It seems to be a condensed and coordinated version of the video lectures and a good reference.  Andrew Ng's DeepLearning.AI series on Coursera.org is also helping me.  I can understand fast.ai notebooks much better, after doing Coursera's deep learning classes.        
+     - https://github.com/fastai/fastbook   fastai book 
+     - https://www.youtube.com/watch?v=J6XcP4JOHmk&t=1s  Lex interview Jeremy Howard   
+
+### II. My exercises for Chollet, Deep Learning with Python book  
 
   * Appendix: setup, tensorflow, keras, GPU on AWS EC2.   
     AWS EC2 GPU large instance still too expensive in May 2020, 70 cents/hour.    
@@ -21,12 +28,12 @@ Author: Jennifer E. Yoon
   * Chp 5: Convolutional Networks -- has vision recognition examples.  
   
 ---     
-
-### II. Coursera.org Deep Learning.AI Specialization  
-(moved here from "learn-mldl" repo)     
   
-#### Class Links: Coursera, Deep Learning AI Specialization:       
+### III. Coursera, Deep Learning AI Specialization:       
       https://www.coursera.org/specializations/deep-learning?  
+      
+***Update 9/30/2020: Coursera.org put all notebooks and quizzes behind a paywall.  No part of them are viewable without paying.***  
+***We'll probably stop using this class for our local Meetup sessions going forward.***
       
  * Class 1: Neural Networks and Deep Learning   
  
@@ -40,23 +47,11 @@ Author: Jennifer E. Yoon
 
 ---  
 
-###  III. Other Classes  
+### IV. PyTorch Tutorials and Classes:  
 
-#### fast.ai 2020 version, Practical Deep Learning for Coders:  
-
-  * fast.ai deep learning classes revisit, August 2020.  
-    Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum required 1 year of focused coding experience in any language.  I came across Jeremy Howard's interviews on YouTube, and it peaked my interest again.  Now might be a good time to pick this up again.  There is also fastai in a book form, which is a new development.  It seems to be a condensed and coordinated version of the video lectures and a good reference.  Andrew Ng's DeepLearning.AI series on Coursera.org is also helping me.  I can understand fast.ai notebooks much better, after doing Coursera's deep learning classes.        
-     - https://github.com/fastai/fastbook   fastai book 
-     - https://www.youtube.com/watch?v=J6XcP4JOHmk&t=1s  Lex interview Jeremy Howard   
-
-#### PyTorch:  
-
-  * Udemy - PyTorch Complete class - Jose Portilla  
-    * Has pytorch.yml, but can use "dlpy" env. Check if all libraries present.  
+  * Udemy - PyTorch Complete class - Jose Portilla (Signed up August 2020)   
   
   * PyTorch - Tutorial from SciPy 2020  
-  
-  * PyTorch - Udacity Introduction, free class, Meetup NOVA Deep Learning (other one)      
  
 ---  
 
