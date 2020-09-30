@@ -59,8 +59,8 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
  
 ---  
 
-###  IV. Setup, Environment:  
+###  V. Setup, Environment:  
 
   * I use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
-  * PyTorch v 1.6 stable installed in July 2020, to "dlpy" conda virtual environment on Ubuntu (WSL).  
+  * PyTorch v 1.6 stable also installed to "dlpy" env on Ubuntu (WSL).  
