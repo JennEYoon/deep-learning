@@ -7,12 +7,16 @@ Author: Jennifer E. Yoon
 
 ---  
 
-### I. fast.ai 2020 version, Practical Deep Learning for Coders:  
+### I. fast.ai version 2 for 2020, Practical Deep Learning for Coders:  
 
-  * fast.ai deep learning classes revisit, August 2020.  
-    Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum required 1 year of focused coding experience in any language.  I came across Jeremy Howard's interviews on YouTube, and it peaked my interest again.  Now might be a good time to pick this up again.  There is also fastai in a book form, which is a new development.  It seems to be a condensed and coordinated version of the video lectures and a good reference.  Andrew Ng's DeepLearning.AI series on Coursera.org is also helping me.  I can understand fast.ai notebooks much better, after doing Coursera's deep learning classes.        
-     - https://github.com/fastai/fastbook   fastai book 
-     - https://www.youtube.com/watch?v=J6XcP4JOHmk&t=1s  Lex interview Jeremy Howard   
+  * Class part 1, March 2020: https://course.fast.ai/  
+  * Book on Amazon:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1601497208&sr=8-1  
+  * Full notebooks in book:  https://github.com/fastai/fastbook  
+  * Download software fastai v2: https://github.com/fastai/fastai  
+
+#### My revisit of fast.ai deep learning classes in August 2020:  
+Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum required 1 year of focused coding experience in any language.  I came across Jeremy Howard's interviews on YouTube, and it peaked my interest again.  Now might be a good time to pick this up again.  There is also fastai book which is a new development.  It seems to be a condensed and coordinated version of the video lectures and a good reference. The book covers part II, fundamentals of deep learning, as well as a little bit of basic machine learning models.  
+
 
 ### II. My exercises for Chollet, Deep Learning with Python book  
 
