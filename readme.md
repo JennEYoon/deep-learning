@@ -24,15 +24,12 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
     AWS EC2 GPU large instance still too expensive in May 2020, 70 cents/hour.    
     Use Google Colab free GPU instances instead. (My free $300 credit expired unused in April 2020.)  
   
-  * Chp 9: Conclusions 
-    Key Concepts Review, how to keep-up with new developments, future of deep learning, limitations of deep learning
-  
   * Chp 4.5: Universal Workflow of Deep Learning  
   
   * Chp 5: Convolutional Networks -- has vision recognition examples.  
   
   * Chp 8 & 9: Generative Deep Learning, Conclusion  
-    Has interesting examples, deep dream, art style transfer, face genereration.  Look forward to future research.  
+    Has interesting examples, deep dream, art style transfer, face genereration.  Look forward to future research.  Limitations of deep learning.  
   
 ---     
   
