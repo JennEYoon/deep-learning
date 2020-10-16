@@ -15,7 +15,7 @@
     
   * Udacity PyTorch Intro - free class, NOVA Deep Learning Meetup (other one):   
     - Intro part of full deep learning nanodegree.  
-    - Doenload has all parts of nanodegree.  
-    - Intro class - Fahsion MNIST  
+    - Download has all parts of nanodegree.  
+    - Intro class - Fashion MNIST  
     
     
