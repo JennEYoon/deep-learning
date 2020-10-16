@@ -31,6 +31,9 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
   
   * Chp 5: Convolutional Networks -- has vision recognition examples.  
   
+  * Chp 8 & 9: Generative Deep Learning, Conclusion  
+    Has interesting examples, deep dream, art style transfer, face genereration.  Look forward to future research.  
+  
 ---     
   
 ### III. Coursera, Deep Learning AI Specialization:       
