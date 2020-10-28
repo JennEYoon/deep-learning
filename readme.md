@@ -19,7 +19,7 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
 
 ---  
 
-### II. My exercises for Chollet, Deep Learning with Python book  
+### II. My exercises from Chollet, Deep Learning with Python book  
 
   * Appendix: setup, tensorflow, keras, GPU on AWS EC2.   
     AWS EC2 GPU large instance still too expensive in May 2020, 70 cents/hour.    
