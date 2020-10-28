@@ -34,21 +34,10 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
   
 ---     
   
-### III. Coursera, Deep Learning AI Specialization:       
-      https://www.coursera.org/specializations/deep-learning?  
-      
-***Update 9/30/2020: Coursera.org put all notebooks and quizzes behind a paywall.  No part of them are viewable without paying.***  
-***We'll probably stop using this class for our local Meetup sessions going forward.***
-      
- * Class 1: Neural Networks and Deep Learning   
- 
- * Class 2: Improving Deep Neural Networks  
- 
- * Class 3: Structuring Machine Learning Projects  
- 
- * Class 4: Convolutional Neural Networks   
-   
- * Class 5: Sequence Models    
+### III. My exercises from Jake VanderPlas, ***Python Data Science Handbook***, c 2017.  
+
+  * Jake's Github notebooks:  https://github.com/jakevdp/PythonDataScienceHandbook  
+  * Amazon book:  https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_1?dchild=1&keywords=jake+vanderplas&qid=1603916196&sr=8-1   
 
 ---  
 
