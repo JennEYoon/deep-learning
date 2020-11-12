@@ -1,7 +1,0 @@
-fastai - work on ipad, copy motebook to Colab Google Drive.  
-Mount Google Drive to use for file and data storage.  
-Download URL dataset once, save to notebook memory.  
-First cells of new notebook.  
-Install packages with Linus commands !pip install  !apt-get install  
-GDrive uses 75 GB after removing photos.  
-PythonAnywhere - free version not useful, not enough memory, cpu, storage.  
