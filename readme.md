@@ -7,7 +7,7 @@ Author: Jennifer E. Yoon
 
 ---  
 
-### I. fast.ai version 2 for 2020, Practical Deep Learning for Coders:  
+### I. fast.ai 2020 class, fastai software v2, Practical Deep Learning for Coders:  
 
   * Class part 1, March 2020: https://course.fast.ai/  
   * Book on Amazon:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1601497208&sr=8-1  
@@ -39,13 +39,8 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
   * Jake's Github notebooks:  https://github.com/jakevdp/PythonDataScienceHandbook  
   * Amazon book:  https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_1?dchild=1&keywords=jake+vanderplas&qid=1603916196&sr=8-1   
 
----  
-
-### IV. PyTorch Tutorials and Classes:  
-
-  * Udemy - PyTorch Complete class - Jose Portilla (Signed up August 2020)   
-  
-  * PyTorch - Tutorial from SciPy 2020  
+### VI. Hands-on Machine Learning, 2nd ed book, c 2020  
+  * My notebook practices  
  
 ---  
 
