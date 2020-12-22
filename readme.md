@@ -41,7 +41,7 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
 
 ---  
 
-### VI. Hands-on Machine Learning, 2nd ed book, c 2020  
+### IV. Aurélien Geron, Hands-on Machine Learning, 2nd ed book, c 2020  
   * My notebook practices  
  
 ---  
