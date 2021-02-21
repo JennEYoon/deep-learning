@@ -1,4 +1,4 @@
-# My notes from reading notes  
+# My notes from reading Goodfellow et al book.    
 
 Deep Learning book by Ian Goodfellow, Yoshua Bengio, Aaron Courville, C 2016  
 https://www.deeplearningbook.org/  
