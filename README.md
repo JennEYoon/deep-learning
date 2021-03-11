@@ -34,16 +34,11 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
   
 ---     
   
-### III. My exercises from Jake VanderPlas, ***Python Data Science Handbook***, c 2017.  
+### III. Other:  
 
-  * Jake's Github notebooks:  https://github.com/jakevdp/PythonDataScienceHandbook  
-  * Amazon book:  https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_1?dchild=1&keywords=jake+vanderplas&qid=1603916196&sr=8-1   
+ * Goodfellow et al, Deep Learning book  
 
----  
 
-### IV. Aurélien Geron, Hands-on Machine Learning, 2nd ed book, c 2020  
-  * My notebook practices  
- 
 ---  
 
 ###  V. Setup, Environment:  
