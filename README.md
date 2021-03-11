@@ -37,7 +37,7 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
 ### III. Other:  
 
  * Goodfellow et al, Deep Learning book  
-
+   https://www.deeplearningbook.org/  
 
 ---  
 
