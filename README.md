@@ -8,7 +8,8 @@ Author: Jennifer E. Yoon
 ---  
 
 ### I. fast.ai 2020 class, fastai software v2, Practical Deep Learning for Coders:  
-***Moved current working folder to "fastai-app" repo. Older working folder still here to serve external links^^^
+
+***Moved current working folder to "fastai-app" repo. Older working folder still here to serve external links***  
 
   * Class part 1, March 2020: https://course.fast.ai/  
   * Book on Amazon:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1601497208&sr=8-1  
