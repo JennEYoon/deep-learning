@@ -9,7 +9,7 @@ Author: Jennifer E. Yoon
 
 ### I. fast.ai 2020 class, fastai v2 package, Practical Deep Learning for Coders:  
 
-***Moved current working folder to "fastai-app" repo. Older working folder still here to serve external links***  
+***Moved current working folder to "fastai-app" repo. Older working folder is still here to serve external links***  
 
   * Class part 1, March 2020: https://course.fast.ai/  
   * Book on Amazon:  https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_1?dchild=1&keywords=fastai&qid=1601497208&sr=8-1  
@@ -20,7 +20,7 @@ Author: Jennifer E. Yoon
 Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum required 1 year of focused coding experience in any language.  I came across Jeremy Howard's interviews on YouTube, and it peaked my interest again.  Now might be a good time to pick this up again.  There is also fastai book which is a new development.  It seems to be a condensed and coordinated version of the video lectures and a good reference. The book also covers part II, fundamentals of deep learning, and some of their basic machine learning class.  
 
 June 12, 2021 Update:  
-Part 2 youtube videos are still not available.  In the mean time, watching 2019 version of Part 2 is useful.  Fastai library explanation is helpful for understanding the v2 package, even thought the 2019 youtube videos refers to fastai v1 package instead.  Code walkthrough videos for fastai v2 package is also helpful.  Fastbook nb 19 (book chapter 19) had helpful information on understanding fastai package.  Chapter is still at a high level, so need to dive into actual code.  See github for fastai/fastai repo.  
+Part 2 youtube class videos are still not available.  In the mean time, watching 2019 version of Part 2 class on youtube is useful.  Fastai library explanation is helpful for understanding the v2 package, even thought the 2019 class videos refers to fastai v1 package.  Package v2 reuse v1's parts and function.  Parts in v2 are inside a wrapper or a module.  Code walkthrough videos for fastai v2 package is also helpful.  Fastbook nb 19 (book chapter 19) had helpful information on understanding fastai package.  Chapter is still at a high level, so need to dive into actual code.  See github for fastai/fastai repo.  
 
 ---  
 
