@@ -1,1 +1,2 @@
 Test git pull.  After nodifying files from Github server.
+Success!  downloaded correctly. 
