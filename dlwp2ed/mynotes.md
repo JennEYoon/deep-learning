@@ -6,5 +6,6 @@
  * Chp 1 - overview
    - charts not update from 2017.  To message author about this.  
  * Chp 2 - more detailed math for NN, CNN, MNIST example than Fastai book.  
+   - compare with fastai book presentations in chp 17 NN and chp 13 CNN.  
  * v7 MEAP as of today, Nov 2021 est publication date.  
 
