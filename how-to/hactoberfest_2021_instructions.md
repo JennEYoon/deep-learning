@@ -32,7 +32,7 @@ Formats:
    
    > **Sample:**  
    > file name: "how_to_study_and_do_projects_in_ds_by_JenniferYoon.md"  
-   > Optionally add your name and github profile link at the top of your text file.  
+   > Please add your name and optionally your github username or link to the top of your text file.  
 
 When you are ready, create a pull request from you fork on GitHub. In your pull request title, add #hactoberfest-2021 and #issue-number you are posting to.  
 
