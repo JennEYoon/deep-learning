@@ -36,3 +36,7 @@ Formats:
 
 When you are ready, create a pull request from you fork on GitHub. In your pull request title, add #hactoberfest-2021 and #issue-number you are posting to.  
 
+Thanks!  Hopefully we will all have fun during \#Hactoberfest-2021.  
+If you need to contact me, email: JennEYoon @ gmail.com (without spaces)  
+
+Jennifer E. Yoon
