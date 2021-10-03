@@ -14,19 +14,21 @@ Formats:
 
  * Adding an item to a list in one of the "how_to..." files.  
    > **Format:**  
-   >   * item 1 - \<resource name and link>
-   >       - posted by: \<your name>, optional \<your github username or link>  
+   >   * item 1 - \<resource name and link\>
+   >       - posted by: \<your name\>, optional \<your github username or link\>  
    >       - comment: optional  
    
    > **Sample:**  
    > Adding to "how_to_build_a_career_in_ds.md" text file.   
    >   * Build a Career in Data Science, by Emily Robinson and Jacqueline Nolis, c 2020, Manning Publications Co. 
    >       - posted by: Jennifer Yoon, github user: JennEYoon  
+   >       - comment: A good book on entry level to advanced careers in data science. Has many interesting short interviews with working data scientists on how they got into their career and their recommendation to beginners.  
+
 
 
  * Uploading a new text file (.md or .txt) in one of the "how_to..." categories.  
    > **Format:**  
-   > "How_to_<+category>_by_<+your name>.md"  
+   > "how_to_\<category\>_by_\<your name\>.md"  
    
    > **Sample:**  
    > file name: "how_to_study_and_do_projects_in_ds_by_JenniferYoon.md"  
