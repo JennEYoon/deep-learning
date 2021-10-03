@@ -28,7 +28,7 @@ Formats:
 
  * Uploading a new text file (.md or .txt) in one of the "how_to..." categories.  
    > **Format:**  
-   > "how_to_\<category\>_by_\<your name\>.md"  
+   > "how_to_\<category\>\_by\_\<your name\>.md"  
    
    > **Sample:**  
    > file name: "how_to_study_and_do_projects_in_ds_by_JenniferYoon.md"  
