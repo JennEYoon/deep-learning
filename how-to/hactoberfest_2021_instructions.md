@@ -17,7 +17,8 @@ Formats:
    >   * item 1 - \<resource name and link>
    >       - posted by: \<your name>, optional \<your github username or link>  
    >       - comment: optional  
-   > **Sample:** 
+   >       
+   > **Sample:**  
    > Adding to "how_to_build_a_career_in_ds.md" text file.   
    >   * Build a Career in Data Science, by Emily Robinson and Jacqueline Nolis, c 2020, Manning Publications Co. 
    >       - posted by: Jennifer Yoon, github user: JennEYoon  
