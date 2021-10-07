@@ -1,4 +1,4 @@
-# Hactoberfest 2021 instructions.
+# Hacktoberfest 2021 instructions.
 
 > tags:  \#Hactoberfest-2021, \#good-first-issue  
 
