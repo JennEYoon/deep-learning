@@ -37,9 +37,18 @@ Add #Hactoberfest-2021 and #Issue-number in your pull request title.
       - comment: I really liked this video on how to study hard by a med student.  Boy, those med students study really hard!  "There's no trying to be your best. No! You have to F'ing BE the BEST!!!"  Great advice on upping your game.  
  
 
-  * item 1 - ... 
-      - posted by: ...    
-      - comment: ...  
+  * Radec, A student's perspective, learning DL on fast.ai, YouTube https://www.youtube.com/watch?v=ZMquKs-M4eE&t=377s    
+    Follow Radek:
+    https://twitter.com/radekosmulski  
+    https://medium.com/@radekosmulski  
+    https://www.kaggle.com/radek1  
+ 
+     * Concentrated 1.5-2 hours is much more effective than 30 minute increments. Software takes a long time to load all the context into memory.  Distractions takes away the context loading, and this needs to be done all over again.  Work in separate space with NO DISTRACTIONS.  Remove all bookmarks that will distract you.  Time management requires you to clear your calendar of all things except 1 or 2 items, at most.  What you take out is the most important secret to time management.  Redec closed Facebook account.  
+     * When you feel somewhat comfortable with Fastai class notebooks, that is a good time to enter Kaggle competitions. Try to join on the start date so you will have the full 2 months to work on it.  Read other people's forum posts and uploaded Jupyter notebooks.  You will learn a TON from doing your own deep learning project.  
+      - posted by: Jennifer E. Yoon, github user: JennEYoon  
+      - comment: It's an excellent interview from a top student of Fastai's deep learning classes.  
+
+
 
 
   * item 1 - ... 
