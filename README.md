@@ -49,10 +49,6 @@ https://github.com/JennEYoon/fastai-dl-study/tree/main/fastbook
 Back in 2018 when I first came across fast.ai, it was too hard for me to work through the notebooks because I didn't have the minimum required 1 year of focused coding experience in any language.  I came across Jeremy Howard's interviews on YouTube, and it peaked my interest again.  Now might be a good time to pick this up again.  There is also fastai book which is a new development.  It seems to be a condensed and coordinated version of the video lectures and a good reference. The book also covers part II, fundamentals of deep learning, and some of their basic machine learning class.  
 
 ---  
-
-
-  
----     
   
 ### IV. Other:  
 
