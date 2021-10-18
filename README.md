@@ -7,7 +7,35 @@ Author: Jennifer E. Yoon
 
 ---  
 
-### I. fast.ai 2020 class, fastai v2 package, Practical Deep Learning for Coders:  
+### I. NVIDIA deep learning book  
+
+  * Magnus Ekman, Learning Deep Learning, NVIDIA Deep Learning Institute, c 2022 NVIDIA Corp., Addison-Wesley publishing
+
+   Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  I don't know what transformers are in deep learning, so that will be interesting.  Appendix has PyTorch vs TensorFlow chart for how to convert your workflow between these packages.   
+
+
+
+### II. My exercises from Chollet, Deep Learning with Python book, 2nd ed, c 2011 Nov.    
+
+  * Chp 1 and 2 for small group, Oct 25, 2021, Monday.  
+    Peter, Dan, me, and Elaheh  
+    
+    ---  
+
+#### First edition notes:  
+
+  * Appendix: setup, tensorflow, keras, GPU on AWS EC2.   
+    AWS EC2 GPU large instance still too expensive in May 2020, 70 cents/hour.    
+    Use Google Colab free GPU instances instead. (My free $300 credit expired unused in April 2020.)  
+  
+  * Chp 4.5: Universal Workflow of Deep Learning  
+  
+  * Chp 5: Convolutional Networks -- has vision recognition examples.  
+  
+  * Chp 8 & 9: Generative Deep Learning, Conclusion  
+    Has interesting examples, deep dream, art style transfer, face genereration.  Look forward to future research.  Limitations of deep learning.  
+
+### III. fast.ai 2020 class, fastai v2 package, Practical Deep Learning for Coders:  
 
 ***Moved to "fastai-dl-study" repo in Oct 2021*** 
 https://github.com/JennEYoon/fastai-dl-study/tree/main/fastbook  
@@ -22,22 +50,11 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
 
 ---  
 
-### II. My exercises from Chollet, Deep Learning with Python book  
 
-  * Appendix: setup, tensorflow, keras, GPU on AWS EC2.   
-    AWS EC2 GPU large instance still too expensive in May 2020, 70 cents/hour.    
-    Use Google Colab free GPU instances instead. (My free $300 credit expired unused in April 2020.)  
-  
-  * Chp 4.5: Universal Workflow of Deep Learning  
-  
-  * Chp 5: Convolutional Networks -- has vision recognition examples.  
-  
-  * Chp 8 & 9: Generative Deep Learning, Conclusion  
-    Has interesting examples, deep dream, art style transfer, face genereration.  Look forward to future research.  Limitations of deep learning.  
   
 ---     
   
-### III. Other:  
+### IV. Other:  
 
  * Goodfellow et al, Deep Learning book  
    https://www.deeplearningbook.org/  
