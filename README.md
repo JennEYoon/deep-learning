@@ -11,7 +11,7 @@ Author: Jennifer E. Yoon
 
   * Magnus Ekman, Learning Deep Learning, NVIDIA Deep Learning Institute, c 2022 NVIDIA Corp., Addison-Wesley publishing
 
-   Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  I don't know what transformers are in deep learning, so that will be interesting.  Appendix has PyTorch vs TensorFlow chart for how to convert your workflow between these packages.   
+   Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  I don't know what transformers are in deep learning, so that will be interesting.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries.   
 
 
 
