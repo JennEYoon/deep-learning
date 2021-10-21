@@ -45,7 +45,7 @@ Add #Hactoberfest-2021 and #Issue-number in your pull request title.
 
   * Coding Interview for Data Scientists | Python Questions | Data Science Interview. Youtube: https://www.youtube.com/watch?v=hAqg2dlNeUc 
       - posted by: Caíque Coelho, github user: CaiqueCoelho    
-      - comment: A quick but complete guide about how to prepare for a successfully interview with FANG as well as unicorns  
+      - comment: A quick but complete guide about how to prepare for a successful interview [in data science] with FANG as well as unicorns.    
 
 
   * item 1 - ... 
