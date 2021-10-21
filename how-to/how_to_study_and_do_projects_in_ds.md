@@ -50,10 +50,9 @@ Add #Hactoberfest-2021 and #Issue-number in your pull request title.
       - comment: It's an excellent interview from a top student of Fastai's deep learning classes.  
 
 
-  * item 1 - ... 
-How to Learn Data Science from Scratch, by Julien Kervizic, c 2020 Medium.com,  https://medium.com/analytics-and-data/how-to-learn-data-science-from-scratch-3d129e1b4f31
-      - posted by: ...    
-      - comment: ...  
+  * How to Learn Data Science from Scratch, by Julien Kervizic, c 2020 Medium.com, https://medium.com/analytics-and-data/how-to-learn-data-science-from-scratch-3d129e1b4f31
+      - posted by: Jennifer E. Yoon, github user: JennEYoon  
+      - comment: A short but mostly complete guide to subject areas to study to become a data scientist. A good starting guide for beginners. Items I would add to this guide is studying deep learning and building an area of specialization where one can be an expert.  This one is less of a "how to study" and more of a "what to study" guide in data science.   
 
 
   * item 1 - ... 
