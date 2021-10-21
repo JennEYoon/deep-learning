@@ -32,7 +32,8 @@ Add #Hactoberfest-2021 and #Issue-number in your pull request title.
       - posted by: Jennifer E. Yoon, github user: JennEYoon  
       - comment: This book overall is a good resouce, and specifically the pages cited have useful information for beginners on learning data science and doing data science projects.  
 
-  * How I Trained Myself to Study Long Hours (Even When I Don't Want To), by StudyMD, YouTube https://www.youtube.com/watch?v=Dezbvv2NIlQ  
+  * Not specifically about data science, but broadly how to study resource:    
+    How I Trained Myself to Study Long Hours (Even When I Don't Want To), by StudyMD, YouTube https://www.youtube.com/watch?v=Dezbvv2NIlQ  
       - posted by: Jennifer E. Yoon, github user: JennEYoon  
       - comment: I really liked this video on how to study hard by a med student.  Boy, those med students study really hard!  "There's no trying to be your best. No! You have to F'ing BE the BEST!!!"  Great advice on upping your game.  
  

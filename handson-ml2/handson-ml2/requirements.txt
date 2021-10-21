@@ -89,7 +89,7 @@ numexpr==2.7.1
 
 # Optional: these libraries can be useful in the classification chapter,
 # exercise 4.
-nltk==3.4.5
+nltk==3.6.5
 urlextract==0.14.0
 
 # Optional: these libraries are only used in chapter 16
