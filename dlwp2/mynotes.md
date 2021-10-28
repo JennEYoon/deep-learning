@@ -18,9 +18,10 @@
       - Not very good to go by this survey, some 14% of respondents have never coded or used a ML model!  
       - At least filter out all irrelevant respondents. Use only those with 1+ years of coding and ML experience, and from US and Canada.  India we know if very different market from US, with far more students and much younger in age.  
       - PyTorch used by 31%, Tensorflow by 48%, and Scikit-Learn by 71% of Kaggle Users (not winners, not deep learning only).    
-     <&nbsp>  
+    ```html
+       <&nbsp>  ```
      >  <img src="./images/2021-Kaggle-DSML-Survey.png" alt="Kaggle 2021 DS/ML User Survey" width="700px" />
-   - <&nbsp>  
+   - ```<&nbsp>  ```
    - Compare with 1st ed? 
    - 10/29/2021 TH - finished reading 5am 
    - 10/29/2021 TH 1.5h read Kaggle 2021 DS/ML User Survey, make notes. 
