@@ -30,5 +30,7 @@
    - compare with fastai book presentations in chp 17 NN and chp 13 CNN.  
    - mostly finished reading 10/29/2021 TH 5 am, to reveiw details 1-layer chart and code, p 72-82.  
    - not as detailed as fastai chp17, to do this anyway, to reproduce everything with Numpy.  
+   - code notebook is quite long, mnist example. Tey running all, not necessarily tomorrow.    
+   - but chp 3 has Keras code intro, tensor intro.  
  * v7 MEAP as of today, Nov 2021 est publication date.  
 
