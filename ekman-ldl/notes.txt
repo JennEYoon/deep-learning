@@ -1,0 +1,3 @@
+# My practice folder
+
+### Mangus, Ekman, NVIDIA Deep Learning Institute, Learning Deep Learning, c 2022.  
