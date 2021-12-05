@@ -15,12 +15,13 @@ Author: Jennifer E. Yoon
 
 
 
-### II. My exercises from Chollet, Deep Learning with Python book, 2nd ed, c 2011 Nov.    
+### II. My exercises from Chollet, Deep Learning with Python, 2nd ed, c 2012 November     
 
   * Chp 1 and 2 for small group, Oct 25, 2021, Monday.  
     Peter, Dan, me, and Elaheh  
-    
-    ---  
+  * Chp 3 small group Dec 2021  
+  * Main Meetup Dec 2021 chp 1 overview  
+    ---   
 
 #### First edition notes:  
 
