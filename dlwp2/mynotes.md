@@ -37,3 +37,6 @@
    - but chp 3 has Keras code intro, tensor intro.  
  * v7 MEAP as of today, Nov 2021 est publication date.  
 
+#### Dec 6, 2021 small group:  
+Chp 3 today.  
+Intro to Keras, some code.  Read first, then try running Tensorflow code.  
