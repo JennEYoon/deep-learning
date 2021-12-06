@@ -1,11 +1,7 @@
 # My Notes, Deep Learning with Python, 2nd ed, c2021 Nov.  
 
 #### Meetup DSML small group, Sept 2021:  
-Picked book with Elaheh, but she never came back afterwards.  
-Should not have included her in the decision for next book for the meetup.  
-But Peter and Dan were not happy with Fastai book and wanted a different one.  
-They seem happy with it.  
-I would have preferred NVIDIA book, but that's too advanced for general Meetup people.  
+Elaheh vote, but didn't come back.   
 
 #### Meetup DSML small group, 11/1/2021:
 Date changed to Nov 1, 2021, Monday 7pm.  
