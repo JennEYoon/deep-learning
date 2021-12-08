@@ -17,4 +17,5 @@ To meet tonight, chp 3.
 Ran nb on Colab for Chp3, Chp2.  Saved both back to Github with "Open in Colab" badge.  
 Dan said he can present neural network, chp 3 stuff.  
 
-
+#### Meetup DSML main group, Dec will be last online! Yeah!!!  
+really tired with constant churn.  
