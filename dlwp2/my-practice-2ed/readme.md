@@ -19,3 +19,12 @@ Dan said he can present neural network, chp 3 stuff.
 
 #### Meetup DSML main group, Dec will be last online! Yeah!!!  
 really tired with constant churn.  
+
+#### Dec 14, 2021, last DSML Meetup ended with a Bang!  Yeah!!!   
+My talk and open discussions went well.  Dan's talk also went well.  
+Deborah came late to the event and wants to continue the Meetup Online.  
+We'll its up to her now to do the work to continue next year.  
+I won't be spending any more effort or time on it, until the group meets in person again.  
+
+
+
