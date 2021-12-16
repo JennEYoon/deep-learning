@@ -26,5 +26,10 @@ Deborah came late to the event and wants to continue the Meetup Online.
 Well its up to her now to do the work to continue next year.  
 I won't be spending any more effort or time on it, until the group meets in person again.  
 
+### Dec 15:  
+Took 3h today for communications. 4h prep yesterday.  1 full day of work!!!  
+Coordinating activities takes a lot of time, looking up info.  
+I'm not going to add emails to Slack.  If new lead didn't do it, I'm not going to worry about that.  
+Already spent far too much time drafting a long email, without ever getting a reply from her before.  
 
 
