@@ -2,5 +2,8 @@ My notes, HE Masked Autoencoders paper.
 
 Images at end is from UN curated samples.  Read wrong as CURATED.  
 Also validation on COCO vs trained on ImageNet 1K dataset, better.  
-Metric is always image classification accuracy.  Not good for object semantic learning test.  
+Metric is always image classification accuracy.  Not good for object semantic learning proof.  
 Best parts, shows a novel approach for images, architecture has room to grow, much faster with less compute resources, very deep training with no overfitting issue.  
+
+todo - read original ViT paper, Vision Transformer.  
+This also used classification only as metric.  Problem if object semantic learning is an objective.  
