@@ -66,7 +66,7 @@ Back in 2018 when I first came across fast.ai, it was too hard for me to work th
 
 
 
-### License - Apache 2.0  
+###  VI. License - Apache 2.0  
 
    Copyright 2020-2022 by Jennifer E. Yoon
 
