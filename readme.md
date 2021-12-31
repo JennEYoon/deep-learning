@@ -5,7 +5,7 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon
 
-2019-2020 Coursera Deep Learning Specialization content moved to separate repo, Coursera
+2019-2020 Coursera Deep Learning Specialization content moved to "Coursera-DLAI" repo.  
 
 ---  
 
