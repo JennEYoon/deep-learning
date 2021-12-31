@@ -5,6 +5,8 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon
 
+2019-2020 Coursera Deep Learning Specialization content moved to separate repo, Coursera
+
 ---  
 
 ### I. NVIDIA deep learning book  
