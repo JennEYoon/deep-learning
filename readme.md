@@ -21,8 +21,8 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 
 ### III. Practical Deep Learning for Coders, fastai 
 
-***Moved to "fastai-dl-study" repo in Oct 2021*** 
-https://github.com/JennEYoon/fastai-dl-study/tree/main/fastbook 
+***Moved to "fastai-deep-learning" repo in Oct 2021*** 
+ to add, new link
 
 ---  
 
