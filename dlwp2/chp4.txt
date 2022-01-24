@@ -1,6 +1,0 @@
-numpy axis=0, collapse in vertical direction, column sum.  
-axis=1, collapse in horizontal direction, row sum.  
-
-To run exercises.  
-WSL2 installed.  Took a long time, 5h so far.  
-installing conda env and pkgs. 
