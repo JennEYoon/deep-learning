@@ -1,11 +1,7 @@
 # My practice repo for deep-learning.  
 
-***Note: Renamed "master" to "main" branch in June 2020***
-
 Created: May 22, 2020  
-Author: Jennifer E. Yoon
-
-2019-2020 Coursera Deep Learning Specialization content moved to "Coursera-DLAI" repo.  
+Author: Jennifer E. Yoon  
 
 ---  
 
@@ -26,15 +22,19 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 ***Moved to "fastai-deep-learning" repo in Oct 2021*** 
  to add, new link
 
+### IV.  Coursera Deep Learning Specialization classes  
+
+***Move to "Coursera-DLAI" repo in Oct 2020***  
+
 ---  
 
-###  IV. Setup, Environment:  
+###  V. Setup, Environment:  
 
   * I use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
   * PyTorch v 1.6 stable also installed to "dlpy" env on Ubuntu (WSL).  
 
-###  V. License - Apache 2.0  
+###  VI. License - Apache 2.0  
 
    Copyright 2020-2022 by Jennifer E. Yoon
 
