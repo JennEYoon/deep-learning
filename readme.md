@@ -19,12 +19,13 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 
 ### III. Practical Deep Learning for Coders, fastai 
 
-***Moved to "fastai-deep-learning" repo in Oct 2021*** 
+***Moved to "fastai-deep-learning" repo in Oct 2021***  
  to add, new link
 
 ### IV.  Coursera Deep Learning Specialization classes  
 
 ***Move to "Coursera-DLAI" repo in Oct 2020***  
+ to add link  
 
 ---  
 
