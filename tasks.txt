@@ -1,0 +1,8 @@
+# Tasks, deep-leaning repo.  
+
+#### Jan 26, 2022 Wed:  
+move udemy bootcamp here
+
+Chollet book, chp 10 notes  
+WSL2 - check tensorflow cpu version install  
+Try running chp 4 again, why time out?  Do I need to specify tf cpu before running?  
