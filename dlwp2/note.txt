@@ -1,4 +1,0 @@
-markdown, extra line space before/after image, <br /> works, not inside backticks or quotes.  
-&nbsp also works, without quotes.  
-Two spaces, some editors strip it out automatically as extra white space.  
-/ only works if following line is not empty.  "  " 
