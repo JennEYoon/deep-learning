@@ -5,6 +5,7 @@ First part about handling time-series data, periodicity.
 Related to Pandas time-series functions.   
 
 Last example uses deep-learning model, not sure what it's doing yet.  
+Continue - this week, Feb 15, 2022.    
 
 Feb 2022.  JY  
 
