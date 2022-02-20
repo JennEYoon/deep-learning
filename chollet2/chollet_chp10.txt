@@ -7,7 +7,9 @@ Related to Pandas time-series functions.
 Last example uses deep-learning model, not sure what it's doing yet.  
 Continue - this week, Feb 15, 2022.    
 RNN - Periodic repeats.  Seasonaility.  Predict future temperature.  
+Regression model is straight statistics. 
 
+Watch videos on RNN from other sources.  
 
 Feb 2022.  JY  
 
