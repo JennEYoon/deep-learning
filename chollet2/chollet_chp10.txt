@@ -10,6 +10,7 @@ RNN - Periodic repeats.  Seasonaility.  Predict future temperature.
 Regression model is straight statistics. 
 Read more about recurrent neTWorks architecture.  How is periodic repeats handles in neural networks?  
 
+Small group pushed off to next Monday Feb 28, 2022.  Peter look for anomaly detection models in time-series.  
 Watch videos on RNN from other sources.  
 
 Feb 2022.  JY  
