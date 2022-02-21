@@ -8,6 +8,7 @@ Last example uses deep-learning model, not sure what it's doing yet.
 Continue - this week, Feb 15, 2022.    
 RNN - Periodic repeats.  Seasonaility.  Predict future temperature.  
 Regression model is straight statistics. 
+Read more about recurrent neTWorks architecture.  How is periodic repeats handles in neural networks?  
 
 Watch videos on RNN from other sources.  
 
