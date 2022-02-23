@@ -11,7 +11,11 @@ Regression model is straight statistics.
 Read more about recurrent neTWorks architecture.  How is periodic repeats handles in neural networks?  
 
 Small group pushed off to next Monday Feb 28, 2022.  Peter look for anomaly detection models in time-series.  
-Watch videos on RNN from other sources.  
+Watch videos on RNN from other sources.  Sentdex good one.  From scratch  
+
+Jena data, temperature every 10 minutes, from roof MaxPlank.  
+
+
 
 Feb 2022.  JY  
 
