@@ -25,4 +25,4 @@ Me and 1 other person volunteered to do 1 section next time.
 
 ### April 7, 2022 Thursday:  
 chp 3 and 4?  
-Me to present 1 section.  
+Me to present 1 section.  Pick one and message via Slack.  
