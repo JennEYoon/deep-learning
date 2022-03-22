@@ -1,0 +1,10 @@
+Skimmed chp 11 and 12.  
+
+Conclusion interestin, says don't believe the hype of deep learning.  It's not understanding or intelligence, but many dimensional manifold, addition, subtraction, and %delta.  Better for Perception problems.  
+
+Where humans use logic or reasoning, deep learning is lacking.  This is OK, as long as we use both approaches.  
+Alpha Go started by using known human strategy and moves.  But later was able to learn winning moves without strategy as long as game rules were provided.  Game rules were simple compared to life.  
+
+Transformers - attention is all you need, 2017 paper.  
+Try code chp 11 and read source paper.  
+
