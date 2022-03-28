@@ -19,5 +19,6 @@ Try code chp 11 and read source paper.
  
 ### Chp 11 part 1, TPU  
 Github doesn't show any results/outputs from run, even though it's there when viewed on my laptop.  
- 
+ https://nbviewer.org/github/JennEYoon/deep-learning/blob/main/chollet2/chollet_chp11_p01_intro.ipynb  
+ Outputs shown in nbviewer.  
  
