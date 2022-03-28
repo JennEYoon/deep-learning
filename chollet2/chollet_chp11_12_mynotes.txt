@@ -17,6 +17,7 @@ Try code chp 11 and read source paper.
  * need to run it.  May need AWS  
  * Peter not coming today.  Dan and Me.  Maybe redo Parts 2 and 3 of Chp 11 next time?  
  
- 
+### Chp 11 part 1, TPU  
+Github doesn't show any results/outputs from run, even though it's there when viewed on my laptop.  
  
  
