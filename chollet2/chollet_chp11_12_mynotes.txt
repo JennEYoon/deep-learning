@@ -13,8 +13,9 @@ as game rules were provided.  Game rules were simple compared to life.
 Transformers - attention is all you need, 2017 paper - downloaded.
 Try code chp 11 and read source paper.  
 
- * small group chp11 meetup, Monday March 28th, 7-corners B&N.  
- * Jo-Ann's and Michael's there - take a look at stock. Go early.  
+ * rest oc chp 11 is 2/3, many pages.  
+ * need to run it.  May need AWS  
+ * Peter not coming today.  Dan and Me.  Maybe redo Parts 2 and 3 of Chp 11 next time?  
  
  
  
