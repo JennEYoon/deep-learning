@@ -12,9 +12,8 @@ Chp 19-27 is more applicable, ML and DL.
 Read these first.  
 
 Chp 1 history - very broad.  
-chp 2 - Agents definition  
-chp 3 - Agents, problem solving  
- - try some code.  Github solutions exist.  
+chp 2 - Intelligent Agents
+chp 3 - Searching, Simple
 
 ### March 3, 2022 Thursday:  
 Covered all of chp 2 and 3.  
@@ -24,5 +23,7 @@ Julius and Elsa presented.
 Me and 1 other person volunteered to do 1 section next time.  
 
 ### April 7, 2022 Thursday:  
-chp 3 and 4?  
-Me to present 1 section.  Pick one and message via Slack.  
+chp 4 and 5
+4) Complex Search
+5) Adversarial Search and Games 
+Me to present 1 section.  Msg posted to Slack 4/2/2022 - 4.5 Online Search first choice, 4.1-4.2 alternate
