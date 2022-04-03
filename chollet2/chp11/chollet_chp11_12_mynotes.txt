@@ -28,3 +28,8 @@ Much faster.  Still kind of slow. Takes long time to run 5 epoches, 30 min?
 
 Part 3 Transformers - run 1 GPU using datasciY.info@gmail.com acct.  
 Twice as fast, 20 epochs.  ~1.7 minute (100 sec) per epoch.  
+
+
+P4 error: calls "layers" before it is imported, first time only.  Fixed?  
+P3 error: extra ")" in custom function.  Fixed?  
+Look for errata.  If not fixed, submit pull request.  
