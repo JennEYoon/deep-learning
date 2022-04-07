@@ -5,12 +5,12 @@ Github python code: https://github.com/aimacode/aima-python
 
 
 ### TOC US version:  
-<img src="" width="600">
+<img src="AIMA.US.png" width="600">
 
 ### TOC Global version:  
 A few chapters out of order.  1 new chapter.  
 Was printed several months after US version.  
 I have this version  
 
-![Drag Racing](Dragster.jpg)
+![Table of Contents, Global](AIMA.Global.png)
 
