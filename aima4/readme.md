@@ -5,9 +5,7 @@ Github python code: https://github.com/aimacode/aima-python
 
 
 ### TOC US version:  
-```html
-<img src="AIMA.US.png" style="width:650px; border:6px solid black;" />
-```
+<img src="AIMA.US.png" style="width:650px; border:6px solid black;" />  
 
 Github does not render image style, not possible to add a border to the image.  
 
