@@ -1,8 +1,15 @@
 # Tasks, deep-leaning repo.  
 
 #### Jan 26, 2022 Wed:  
-move udemy bootcamp here
+move udemy bootcamp here - no.  
 
 Chollet book, chp 10 notes  
 WSL2 - check tensorflow cpu version install  
 Try running chp 4 again, why time out?  Do I need to specify tf cpu before running?  
+
+#### April 7, 2022 Th:  
+Need to squash git history for this repo, deep-learning. 1.22 GB now.  
+Wait till Dec 2022. Hopefully history will not matter so much by then.  
+Squash to delete files moved out of repo to make room.  
+That might reduce it by several hundred megabyte, to get repo back down to under 1 GB.  
+
