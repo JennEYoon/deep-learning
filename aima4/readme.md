@@ -5,7 +5,7 @@ Github python code: https://github.com/aimacode/aima-python
 
 
 ### TOC US version:  
-<img src="AIMA.US.png" style="width:700px; border:#000000 6px solid;" >
+<kdb><img src="AIMA.US.png" style="width:650px; border:#000000 6px solid;" /></kdb>
 
 ### TOC Global version:  
 A few chapters out of order.  1 new chapter.  
