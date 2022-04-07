@@ -5,11 +5,14 @@ Github python code: https://github.com/aimacode/aima-python
 
 
 ### TOC US version:  
-<kdb><img src="AIMA.US.png" style="width:650px; border:6px solid black;" /></kdb>
-Doesn't work - Github does not render image style, not possible to add a border to the image.  
+```html
+<img src="AIMA.US.png" style="width:650px; border:6px solid black;" />
+```
+
+Github does not render image style, not possible to add a border to the image.  
 
 ### TOC Global version:  
-A few chapters out of order.  1 new chapter.  
+A few chapters out of order.  1 new chapter: Knowledge in Learning.  
 Was printed several months after US version.  
 I have this version  
 
