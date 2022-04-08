@@ -29,4 +29,5 @@ chp 4 and 5
 Me to present 1 section.  Msg posted to Slack 4/2/2022 - 4.5 Online Search first choice, 4.1-4.2 alternate
 
 Elsa Game Theory YouTube: https://www.youtube.com/watch?v=l-hh51ncgDI
+https://www.youtube.com/watch?v=UXW2yZndl7U
  
