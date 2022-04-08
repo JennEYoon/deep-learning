@@ -31,3 +31,5 @@ Me to present 1 section.  Msg posted to Slack 4/2/2022 - 4.5 Online Search first
 Elsa Game Theory YouTube: https://www.youtube.com/watch?v=l-hh51ncgDI
 https://www.youtube.com/watch?v=UXW2yZndl7U
  
+Elsa stochastic games: 
+https://courses.engr.illinois.edu/cs440/fa2018/lectures/lect34.html
