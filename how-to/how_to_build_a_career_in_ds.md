@@ -1,4 +1,4 @@
-# Hot to build a career in data science  
+# Hot to get started and build a career in data science  
 
 
 ### Hactoberfest-2021 participation:
@@ -25,7 +25,7 @@ Add #Hactoberfest-2021 and #Issue-number in your pull request title.
 
 -----  
 
-## List -- How to build a career in data science: 
+## List -- How to get started and build a career in data science: 
 
   * ***Build a Career in Data Science***, by Emily Robinson and Jacqueline Nolis, c 2020, Manning Publications Co.  
       - posted by: Jennifer E. Yoon, github user: JennEYoon  
