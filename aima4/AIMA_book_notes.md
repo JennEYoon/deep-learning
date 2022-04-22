@@ -15,6 +15,9 @@ Chp 1 history - very broad.
 chp 2 - Intelligent Agents
 chp 3 - Searching, Simple
 
+Chp 28 The Future of AI - read  
+Interesting. 
+
 ### March 3, 2022 Thursday:  
 Covered all of chp 2 and 3.  
 Julius and Elsa presented.  
@@ -25,7 +28,9 @@ Me and 1 other person volunteered to do 1 section next time.
 ### April 7, 2022 Thursday:  
 chp 4 and 5
 4) Complex Search
-5) Adversarial Search and Games 
+5) Adversarial Search and Games
+Chp 5 not economic games, but chess, Go etc.  
+Uses A-B search, reinforcement learning, simulated game play, Monte Carlo tree search.  
 Me to present 1 section.  Msg posted to Slack 4/2/2022 - 4.5 Online Search first choice, 4.1-4.2 alternate
 
 Elsa Game Theory YouTube: https://www.youtube.com/watch?v=l-hh51ncgDI
@@ -33,3 +38,12 @@ https://www.youtube.com/watch?v=UXW2yZndl7U
  
 Elsa stochastic games: 
 https://courses.engr.illinois.edu/cs440/fa2018/lectures/lect34.html
+
+### May 5, 2022:  
+6) Constraint Satisfaction Problem  
+7) Logical Agents -- Part III start: Knowledge, reasoning, and planning  
+
+Me to present a section? Logical Agents?  
+
+
+
