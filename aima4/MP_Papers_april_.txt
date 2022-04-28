@@ -1,0 +1,12 @@
+April 21, 2022 - MP Papers Meetup, links
+
+Interesting performance comparison between Resnet and Vit on ImageNet etc https://www.researchgate.net/figure/Performance-of-ViT-and-ResNet-Models-on-Different-Datasets-as-a-Function-of-the-Number-of_fig5_350457424
+
+No problemo.. here's the related pdf file:///C:/Users/David/Documents/MachineLearning/Understanding_Robustness_of_Transformers_for_Image.pdf
+
+From jsimonelli@betterview.com to Everyone 09:01 PM
+https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1
+https://paperswithcode.com/paper/a-convnet-for-the-2020s
+
+From jsimonelli@betterview.com to Everyone 09:24 PM
+https://arxiv.org/pdf/2204.02311.pdf  Pathways Paper, Next Month.  
