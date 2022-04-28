@@ -31,7 +31,9 @@ chp 4 and 5
 5) Adversarial Search and Games
 Chp 5 not economic games, but chess, Go etc.  
 Uses A-B search, reinforcement learning, simulated game play, Monte Carlo tree search.  
-Me to present 1 section.  Msg posted to Slack 4/2/2022 - 4.5 Online Search first choice, 4.1-4.2 alternate
+
+ * Me to present 4.5 online search. Not internet but stading online, in real time. 
+ * Went well, but coudn't focus on other people's presentations when I'm presenting.  Can't understand much of the paper when I didn't read it either, even when I am not presenting. So maybe that's not the issue.  Papers are hard to inderstand, even when I did read it.  Book can be understood when I read it.  1st year standard textbook for computer science major.  Fill in holes for people coming from other backgrounds.  Good for my case.   
 
 Elsa Game Theory YouTube: https://www.youtube.com/watch?v=l-hh51ncgDI
 https://www.youtube.com/watch?v=UXW2yZndl7U
@@ -43,7 +45,10 @@ https://courses.engr.illinois.edu/cs440/fa2018/lectures/lect34.html
 6) Constraint Satisfaction Problem  
 7) Logical Agents -- Part III start: Knowledge, reasoning, and planning  
 
-Me to present a section? Logical Agents?  
+Read new: Chp 6, 7.  
+past catch up: chp 1 (read?), 2, 3; 
+chp 5 skimmed, review again and see Elsa's links.  
 
+done - future of AI chp 28 US version.  
 
 
