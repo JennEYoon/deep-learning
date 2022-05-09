@@ -1,3 +1,8 @@
 # My practice folder
 
 ### Mangus, Ekman, NVIDIA Deep Learning Institute, Learning Deep Learning, c 2022.  
+
+### Chp 1 Perceptron  
+Read through math for calculating weights.  
+Forgot some step here.  Are all batch weights adjusted at once?  
+How does it keep each image predictions in memory?  Weights assigned for each image? or per batch as an amalgamem?  
