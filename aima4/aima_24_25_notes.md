@@ -1,5 +1,6 @@
 # AIMA Chp 24 NLP and Chp 25 DL for NLP  
 
+### Chp 25 Deep Learning for Natural Language Processing  
 June 1,2022:   
 Reading chp 25, interesting explanation or NLP, has Transformers explanation.  
 To keep notes here.  
@@ -18,7 +19,7 @@ RNN part - middle layer feeds previous word to each word node, until all words h
 Then the middle word parts-of-speech task is output.  
 This method is good for downstream tasks, but not good for training initial language model.  Does not guarantee a particular feature will be learned given a particular vocabulary, word corpus 100,000 example.  
 
-### Chp 24 Language Models  
+### Chp 24 Natural Language Processing:  
 
-Manually creating language model using rules, without self learning.  
+First talks about manually creating language model using rules, without machine learning.  
 
