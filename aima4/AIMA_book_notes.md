@@ -51,4 +51,7 @@ chp 5 skimmed, review again and see Elsa's links.
 
 done - future of AI chp 28 US version.  
 
-
+### June 2022:  
+To read chp 8, 9  
+Reading NLP chp 25.  Better explanation than Chollet.  
+Chp 7 Logical Agents started.  
