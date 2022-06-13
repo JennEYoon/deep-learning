@@ -1,4 +1,6 @@
 # AIMA Chp 24 NLP and Chp 25 DL for NLP  
+  US chp 22, 23  .  
+
 
 ### Chp 25 Deep Learning for Natural Language Processing  
 June 1,2022:   
