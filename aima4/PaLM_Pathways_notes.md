@@ -8,3 +8,8 @@
  * Generator - translation, sequence of logical phrases.  
 
  * Pathways is a 2019 paper, how to efficiently parallelize very large training.  
+
+ * Main point is using such a large model for Transformer Language Model. 
+
+### june 16, 2022 Meetup Notes:  
+
