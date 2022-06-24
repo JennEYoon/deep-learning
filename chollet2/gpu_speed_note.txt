@@ -14,6 +14,9 @@ due to temperature and power issues.  But is much faster than RTX 3060.  Sweet s
 
 96% or RAM 15 GB used during training.  Could possibly increase it to 32GB.  
 May or may not help with training speed. Colab has plenty of RAM but is slower to train.  
+Colab usign 40-60% of GPU Ram  
+Colab 2 GB/12GB system Ram using  
+Colab 40 GB/78GB storage disc using 
 
 
 
