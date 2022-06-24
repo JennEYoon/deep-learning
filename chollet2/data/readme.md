@@ -13,3 +13,8 @@ Network\wsl$\Ubuntu\home\jyoon\repos2\data
 
 Added chollet2 chp12 p1 data: aclImdb for text gen.
 
+### uploading data files into Google Colab  
+
+Stackoverflow instructions to use with Colab  
+<a href="./Google_Colab_Get_Files.png">instructions</a>
+
