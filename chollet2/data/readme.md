@@ -16,4 +16,4 @@ Added chollet2 chp12 p1 data: aclImdb for text gen.
 ### uploading data files into Google Colab  
 
 Stackoverflow instructions to use with Colab  
-<img sruc="./Google_Colab_Get_Files.png">instructions
+<img src="./Google_Colab_Get_Files.png" alt="instructions">
