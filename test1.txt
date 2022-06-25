@@ -1,0 +1,2 @@
+new commit, fresh clone, after removing all deleter folder and lg files in history.
+
