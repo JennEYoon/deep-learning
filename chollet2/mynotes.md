@@ -40,3 +40,20 @@
 #### Dec 6, 2021 small group:  
 Chp 3 today.  
 Intro to Keras, some code.  Read first, then try running Tensorflow code.  
+
+#### May and June 2022 small group, chp 11 Transformers.  
+
+Still have difficulty understanding Transformers.  
+Review keras code again, final 2 code segments of seq-to-seq part.
+
+
+#### July 6, 2022 small group, chp 12 p1-3:  
+
+Chp 12, p1 text-gen, 200 epochs takes 5h to train on ROG-G17 computer,  
+86-90 s/epoch  
+Takes 2X as long on Colab GPU. Only tried 40 epochs, took 2 hours. 
+165 s/epoch.  
+
+Even after all that, generated text were mostly gibberish.  Has some semblance of correct word order and noun and verb and adjectives, but movie reviews did not have any coherent meaning.  Source movie reviews were all well written and coherent. Computer does not understanding meaning. It's just putting together random words based on parts of speech and based on statistical occurrence in movie reviews.  
+
+
