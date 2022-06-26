@@ -3,6 +3,11 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon  
 
+git history cleanup, remove deleted folders/large files from git history on 6/25/2022
+ * successfully reduced repo size from 1.3 GB to 500 mb.  
+ * removed empty commits related to deleted files. Commit number for repo declined.  
+ * unexpectedly increased total number of commits on github graph by 900 in 2020 and 600 in 2021. 
+
 ---  
 
 ### I. NVIDIA deep learning book  
@@ -30,6 +35,13 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 ---  
 
 ###  V. Setup, Environment:  
+
+  * New setup, RTX 3070 GPU laptop, June 2022:  
+    Windows 10 with WSL2 Ubuntu 20.4   
+    env base - Tensorflow v6, Cuda toolkit, Cuda gpu drivers, python v 3.8.  
+    env dl - Pytorch, fastai v2, Python v3.7
+    VS Code with Python v3.10 extension on Windows   
+    minconda3 on WSL2 Ubuntu.  
 
   * I use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
