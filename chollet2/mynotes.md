@@ -56,4 +56,10 @@ Takes 2X as long on Colab GPU. Only tried 40 epochs, took 2 hours.
 
 Even after all that, generated text were mostly gibberish.  Has some semblance of correct word order and noun and verb and adjectives, but movie reviews did not have any coherent meaning.  Source movie reviews were all well written and coherent. Computer does not understanding meaning. It's just putting together random words based on parts of speech and based on statistical occurrence in movie reviews.  
 
+#### June 26/2022 notes:  
+Chp 2, 3, and 9 will be good to review, to get better as using Keras as tool, intermediate values extract, visualize intermediate steps.  
+
+After finishing chps 12, 13, and 14 with small group, suggest go back to chps 5 - 9.  
+We did chp 10, but I didn't get much out of it at the time.  Maybe it will make more sense later, after doing chp 11 and 12.  
+YouTube videos had good explanation of concept of Transformers and NLP generally.  https://youtu.be/rURRYI66E54  ComputerPhile  
 
