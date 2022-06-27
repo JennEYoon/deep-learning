@@ -4,9 +4,10 @@ Created: May 22, 2020
 Author: Jennifer E. Yoon  
 
 git history cleanup, remove deleted folders/large files from git history on 6/25/2022
- * successfully reduced repo size from 1.3 GB to 500 mb.  
+ * successfully reduced repo size from 1.3 GB to under 500 mb.  
  * removed empty commits related to deleted files. Commit number for repo declined.  
- * unexpectedly increased total number of commits on github graph by 900 in 2020 and 600 in 2021. 
+ * unexpectedly increased total number of commits on github graph by 900 in 2020 and 600 in 2021.  
+ * Hard reset on Github, delete existing repo, then create fresh repo with same name, push from local to Github.  Fixed weird problem with too many extra github commits on graph, but lost a few stars and forks from other users.  
 
 ---  
 
@@ -38,7 +39,7 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 
   * New setup, RTX 3070 GPU laptop, June 2022:  
     Windows 10 with WSL2 Ubuntu 20.4   
-    env base - Tensorflow v6, Cuda toolkit, Cuda gpu drivers, python v 3.8.  
+    env base - Tensorflow v 2.6, Cuda toolkit, Cuda gpu drivers, python v 3.8.  
     env dl - Pytorch, fastai v2, Python v3.7
     VS Code with Python v3.10 extension on Windows   
     minconda3 on WSL2 Ubuntu.  
