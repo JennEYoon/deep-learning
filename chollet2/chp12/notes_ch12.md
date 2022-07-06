@@ -6,7 +6,7 @@ Part 1 - text gen:
 Continuation of Transformer model from chp 11 end.  
 Sequent to sequence, pre-trained encoder and language model?  
 Decoder to generate possible sentences from IMDB move reviews inputs.  
-Randomness variable set to 0.5, 1.7, 2.5 ?
+Randomness variable set to 0.2, 0.5, 0.7, 1.0, 1.5, larger number introduces more randomness.  
 
 
 
