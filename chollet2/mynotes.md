@@ -47,8 +47,8 @@ Still have difficulty understanding Transformers.
 Review keras code again, final 2 code segments of seq-to-seq part.
 Youtube videos gave a better wholestic answer.  
 
- * June 6, 2020 - buy GPU laptop, spend most of the month setting up environments, tuning laptop settings, installing apps.  
-  * 7/2 buy older phone 4G. 5G is a scam started by China Huawei, not needed in cell phones, was intended for commercial use, but requires 5x power consumption.  Even in US, 5G is not needed, 4G is fast enough to download videos. Use wifi, much cheaper, for downloading videos.  
+ * 6/8/2020 - buy GPU laptop, spend most of the month setting up environments, tuning laptop settings, installing apps.  
+  * 7/2/2022 - buy older phone 4G. 5G is a scam started by China Huawei, not needed in cell phones, was intended for commercial use, but requires 5x electricity consumption for towers.  Chinese telecom turns off towers to save electricity, upgrades users and apcharge 20x cost per usage. Throttle down 4G speeds by turning off towers, delete 4G cellphone plans.  Even in US, 5G is not needed, 4G is fast enough to download videos. Use wifi, much cheaper, for downloading videos.  
 
 #### July 6, 2022 small group, chp 12 p1-3:  
 
@@ -66,12 +66,13 @@ After finishing chps 12, 13, and 14 with small group, suggest go back to chps 5 
 We did chp 10, but I didn't get much out of it at the time.  Maybe it will make more sense later, after doing chp 11 and 12.  
 YouTube videos had good explanation of concept of Transformers and NLP generally.  https://youtu.be/rURRYI66E54  ComputerPhile  
 
-#### 7/5/2022  
+#### 7/5/2022 notes: 
 chp 2, 3, 7 keras, 9 adv CNN & visualizing steps.  
 Do for review.  
-Chp 12 Autoencoders, GANs in August 1, Monday.  
-main parts will be done.  
+ * Chp 12 Autoencoders, GANs in August 1, Monday.  
+   - main parts will be done after August 2022.  
+   
 Started book with small group in Sept 2021, so 1 year to finish all interesting parts.  
 Can't run my own code, but can use provided code with my own data substitution, understand at a general level how main models works.  
 
-Next step is not to understand each model better as presented, but to start own projects and go a lot deeper into one or two projects.  
+Next step is not to understand each model better as presented, but to start my own projects and go a lot deeper into one or two projects.  
