@@ -3,12 +3,13 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon  
 
-git history cleanup, remove deleted folders/large files from git history on 6/25/2022
- * successfully reduced repo size from 1.3 GB to under 500 mb.  
- * removed empty commits related to deleted files. Commit number for repo declined.  
- * unexpectedly increased total number of commits on github graph by 900 in 2020 and 600 in 2021.  
- * Hard reset on Github, delete existing repo, then create fresh repo with same name, push from local to Github.  Fixed weird problem with too many extra github commits on graph, but lost a few stars and forks from other users.  
-
+Git history cleanup, remove deleted folders/large files from git history on 6/25/2022
+ * Successfully reduced repo size from 1.3 GB to under 500 MB.   
+ * Removed empty commits related to deleted folders and deleted large files. Commit history number for repo declined, as expected.    
+ * Unexpectedly increased total number of commits on github commit history graph by 900 in 2020 and 600 in 2021.  No fix.  Seems to be Github error.  
+ * Hard reset on Github, delete existing repo, then create fresh repo with same name, push from local to Github.  Fixed weird problem with too many extra commits on GITHUB commit history graph, but lost a few stars and forks from other users who had been following this repo.  
+ * Decided to make the trade off.   
+ 
 ---  
 
 ### I. NVIDIA deep learning book  
@@ -26,23 +27,23 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 ### III. Practical Deep Learning for Coders, fastai 
 
 ***Moved to "fastai-deep-learning" repo in Oct 2021***  
- to add, new link
 
 ### IV.  Coursera Deep Learning Specialization classes  
 
 ***Move to "Coursera-DLAI" repo in Oct 2020***  
- to add link  
 
 ---  
 
 ###  V. Setup, Environment:  
 
   * New setup, RTX 3070 GPU laptop, June 2022:  
-    Windows 10 with WSL2 Ubuntu 20.4   
-    env base - Tensorflow v 2.6, Cuda toolkit, Cuda gpu drivers, python v 3.8.  
-    env dl - Pytorch, fastai v2, Python v3.7
-    VS Code with Python v3.10 extension on Windows   
-    minconda3 on WSL2 Ubuntu.  
+    Windows 10 with WSL2 Ubuntu 20.4  
+    miniconda3 on WSL2 Ubuntu
+    conda env base - Tensorflow v 2.6, Cuda toolkit, Cuda gpu drivers, python v 3.8.  
+       - note NVIDIA GPU driver version and Cude toolkit version must ve compatible with Tensorflow version installed,  
+       - Nvidea provides a table to check.
+    conda env dl - Pytorch, fastai v2, Python v3.7
+    VS Code with Python v3.10 extension installed on Windows side (for wsl and windows use)    
 
   * I use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
