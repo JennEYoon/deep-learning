@@ -72,7 +72,18 @@ Do for review.
  * Chp 12 Autoencoders, GANs in August 1, Monday.  
    - main parts will be done after August 2022.  
    
-Started book with small group in Sept 2021, so 1 year to finish all interesting parts.  
+Started book with small group in October 29, 2021, so ~1 year to finish all interesting parts.  
 Can't run my own code, but can use provided code with my own data substitution, understand at a general level how main models works.  
 
 Next step is not to understand each model better as presented, but to start my own projects and go a lot deeper into one or two projects.  
+
+### July 6 small group notes:  
+ * Aug 1, 2023 - ch 12 sect 4 Autoencoders, 5 GAN
+ * Sept - ch 7 Keras deep dive  
+ * next ch 8 images cnn review, ch 9 callbacks, interpretation  
+ * next ch 14 conclusion, future of deep learning.  
+Youtube videos gave much better explanation of concepts in transformers, language models, attention, deep dream, style transfers, text generation (word level) vs sentence level? PaLM Pathways papaer.  
+
+
+
+
