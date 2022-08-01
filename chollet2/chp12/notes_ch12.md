@@ -31,6 +31,17 @@ Reference picture
 + Style from layer 1 of each level, texture more than larger structures.  
 = output images.  
 
+part 4 variational autoencoder  
+conceptual encoding space in muti axes.  
+face transform along a conceptual "smile" axis.  
+Smoothly transform resting face to wide smile face, from resting space to horror face.  
+
+part 4 GAN  
+
+Generator gets a 2nd hand representation of training images via discriminator's feedback.  
+Generator is like a blind folded person who can find the target via respompnse from sighted players in a game.  Marco Polo, pinatta, pin the donkey.  
+
+
 
 
 
