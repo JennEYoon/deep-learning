@@ -41,6 +41,8 @@ part 4 GAN
 Generator gets a 2nd hand representation of training images via discriminator's feedback.  
 Generator is like a blind folded person who can find the target via respompnse from sighted players in a game.  Marco Polo, pinatta, pin the donkey.  
 
+Run some examples next time.  
+Do some 5, 6 for September.  
 
 
 
