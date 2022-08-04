@@ -87,8 +87,11 @@ Youtube videos gave much better explanation of concepts in transformers, languag
 ### 8/1/2022 meeting:  
 Finished up chp 12 parts 4 and 5.  
 Dan only, Peter coudn't make it.  
-Sept -- go back to Chp 5 and 6.  Then complete to chp 9.  
-Me - read on to chp 13 hyperparameters, ensemble models.  
+ * Sept -- go back to Chp 5 and 6.  Then complete to chp 9.  
+ * Me - read on to chp 13 hyperparameters, ensemble models.  
 
+The most important chapters were 11 NLP/Transformer, and 12 generators/GANs.  
+Glad we finishes those up.  The rest is more or less self study for me.  
+To run some Chp 8 image samples - test ROG epoch times.  Compare with Colab GPU free.  
 
 
