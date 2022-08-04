@@ -84,6 +84,11 @@ Next step is not to understand each model better as presented, but to start my o
  * next ch 14 conclusion, future of deep learning.  
 Youtube videos gave much better explanation of concepts in transformers, language models, attention, deep dream, style transfers, text generation (word level) vs sentence level? PaLM Pathways papaer.  
 
+### 8/1/2022 meeting:  
+Finished up chp 12 parts 4 and 5.  
+Dan only, Peter coudn't make it.  
+Sept -- go back to Chp 5 and 6.  Then complete to chp 9.  
+Me - read on to chp 13 hyperparameters, ensemble models.  
 
 
 
