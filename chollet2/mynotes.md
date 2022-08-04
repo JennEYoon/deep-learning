@@ -2,7 +2,7 @@
 
 #### 9/29/2021 Meetup Small Group:  
 
- * Decided to study this book next.  Chp 1 & 2 for October 25, 2021 Monday 7pm.  
+ * Decided to study this book next.  Chp 1 & 2 for ***October 25, 2021*** meeting, Monday 7pm.  
  * Chp 1 - overview
    - charts not update from 2017.  To message author about this.  
    - Most Used Library - updated to 2020 Kaggle DS User Survey. Other chart still not updated from 2017. 
