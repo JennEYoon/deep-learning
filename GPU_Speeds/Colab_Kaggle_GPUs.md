@@ -25,3 +25,4 @@ Colab 40GB/78GB storage disc using
 > <b>Using GPU</b>  
 > As of October 13, 2018, Google Colab provides a single 12GB NVIDIA Tesla K80 GPU that can be used up to 12 hours continuously. Recently, Colab also started offering free TPU.  
 
+<img src="GPU_Colab_Kaggle_FLOPS.png" width="600" alt="4 GFLOPS K80/8 GFLOPS T4" />
