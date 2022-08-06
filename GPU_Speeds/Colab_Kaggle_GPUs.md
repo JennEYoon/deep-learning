@@ -2,7 +2,7 @@
 
 # GPU speed, June 23/2022
 
-Asus ROG Strix G17 is faster, by 2X, than Google Colab GPU free processor!  
+Asus ROG Strix G17 is faster, by 2X, than Google Colab GPU free processor K80!  
 
 Chollet chp12 p1 text generation notebook.  
 ROG G17: Took 5 hours with 200 epochs, 90 sec/epoch, then down to 84 sec towards end.  
