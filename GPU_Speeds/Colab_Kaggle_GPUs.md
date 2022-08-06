@@ -22,7 +22,10 @@ Colab using 40-60% of GPU Ram 12GB/16GB
 Colab 2GB/12GB system Ram
 Colab 40GB/78GB storage disc using 
 
+===  
+
 > <b>Using GPU</b>  
 > As of October 13, 2018, Google Colab provides a single 12GB NVIDIA Tesla K80 GPU that can be used up to 12 hours continuously. Recently, Colab also started offering free TPU.  
+> As of August 6, 2022, Colab provides in the free tier K80, and a limited time on T4.  T4 has 16GB VRAM (vs 8GB) and is twice as fast as K80.  
 
 <img src="GPU_Colab_Kaggle_FLOPS.png" width="600" alt="4 GFLOPS K80/8 GFLOPS T4" />
