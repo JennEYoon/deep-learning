@@ -1,0 +1,4 @@
+# nnfs 
+Python 3.7.5 
+NumPy 1.15.0 
+Matplotlib 3.1.1  
