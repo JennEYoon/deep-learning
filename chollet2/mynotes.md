@@ -94,4 +94,5 @@ The most important chapters were 11 NLP/Transformer, and 12 generators/GANs.
 Glad we finishes those up.  The rest is more or less self study for me.  
 To run some Chp 8 image samples - test ROG epoch times.  Compare with Colab GPU free.  
 
-
+### 8/9 DSM L chp 5:  
+rncoding space explained with Mnist shapes, crumpled paper in manifold space.  
