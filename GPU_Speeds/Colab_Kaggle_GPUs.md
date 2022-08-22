@@ -14,8 +14,8 @@ Running timing test at night 11:40 pm EST, 6/23/2022.
 Really glad I bought a GPU laptop. RTX 3070 is only a few percent slower than 3080 or 3080 Super, 
 due to temperature and power issues.  But is much faster than RTX 3060.  Sweet spot.  
 
-On ROG G17, 96% of 16GB RAM was used during training.  Could possibly increase it to 32GB? 
-ROG G17 VRAM is only 8GB. 
+On ROG G17, 96% of 16GB RAM was used during training.  Could possibly increase it to 32GB?   
+ROG G17 VRAM is only 8GB. But is faster clock speed, DDR6 instead of 4.  
 
 May or may not help with training speed. Colab has plenty of RAM but is slower to train.  
 Colab using 40-60% of GPU Ram 12GB/16GB 
