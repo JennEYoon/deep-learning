@@ -107,7 +107,7 @@ chp 6 no notebook, just procedural.
  * related to chapter 12, latent encoding of a "smile".  Array that represent a "smile".  
 
 To do:  Review cycleGAN, moving from MNIST number to another in encoding space, moving from one face to another, from one smile face to non-smile face.  
-  * Finished chp 13 chollet, on my own.  
+  * Finished chp 13 chollet, on my own. Keras inner layer tools, related to chp 7 Keras Deep Dive, chp 3, intro Keras.  
   * Review chp 2 tensor manipulations  
   * Practice chp 3 Keras basics, manipulating tensorflow tensor math  
   * Compare with PyTorch basics/numpy - Brown SciPy 2018.  
