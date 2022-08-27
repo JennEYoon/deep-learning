@@ -95,4 +95,18 @@ Glad we finishes those up.  The rest is more or less self study for me.
 To run some Chp 8 image samples - test ROG epoch times.  Compare with Colab GPU free.  
 
 ### 8/9 DSM L chp 5:  
-rncoding space explained with Mnist shapes, crumpled paper in manifold space.  
+ * encoding space explained with Mnist shapes, crumpled paper in manifold space.  
+
+### 8/27/2022 me:  
+Finished reading chapter 6 and 5.  
+chp 6 no notebook, just procedural.  
+
+ * chp 5: smooth, continuous, differentiable, manifold in higher-dimensional pixel space.  Macro structures such as an arm of a MNIST digit.  
+ * deep learning is interpolating between such manifold states, between 6 and 0; or between 2, 6, 0 transition.  moving parts of arc changes from 2 to 6 to 0.  
+ * latent encoding space.  
+ * related to chapter 12, latent encoding of a "smile".  Array that represent a "smile".  
+
+To do:  Review cycleGAN, moving from MNIST number to another in encoding space, moving from one face to another, from one smile face to non-smile face.  
+  * Finished chp 13 chollet, on my own.  
+  * Review chp 2, 3 tensor manipulations  
+
