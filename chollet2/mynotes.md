@@ -108,5 +108,7 @@ chp 6 no notebook, just procedural.
 
 To do:  Review cycleGAN, moving from MNIST number to another in encoding space, moving from one face to another, from one smile face to non-smile face.  
   * Finished chp 13 chollet, on my own.  
-  * Review chp 2, 3 tensor manipulations  
+  * Review chp 2 tensor manipulations  
+  * Practice chp 3 Keras basics, manipulating tensorflow tensor math  
+  * Compare with PyTorch basics/numpy - Brown SciPy 2018.  
 
