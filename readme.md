@@ -51,6 +51,7 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 
   * VS Code installed on Windows, Python extension also installed on C:/python drive.  
   * Miniconda3 windows version installed on C drive, Python version 3.9 base environment.  
+    - Use with code on C drive.  
 
 ###  VI. License - Apache 2.0  
 
