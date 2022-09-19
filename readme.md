@@ -49,6 +49,9 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
   * PyTorch v 1.6 stable also installed to "dlpy" env on Ubuntu (WSL).  
 
+  * VS Code installed on Windows, Python extension also installed on C:/python drive.  
+  * Minicomda3 windows installed on C drive, python version 3.9 base environment.  
+
 ###  VI. License - Apache 2.0  
 
    Copyright 2020-2022 by Jennifer E. Yoon
