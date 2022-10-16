@@ -7,6 +7,15 @@ Other types of architecture here. Explanations some.
 
  * To run code later.  
 
-### CNN vision chp 9
+### CNN vision chp 8  
+
+Straight up CNN transfer learning.  
+Fit 1 cycle  
+Just like Fastai class.  
+
+### Chp 9 goes into visualization of middle layers, callbacks, tensor board.  
+Different architectures then Sequential. Customizing a training loop.  
+Has 3 parts. Do only one chapter next.  
+
 
 
