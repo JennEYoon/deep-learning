@@ -9,6 +9,8 @@ started reading
 
 Finished reading.  Interesting, a different take.  
 Machines can't think, not like humans, but machines can do a lot of useful things.  
+Reread 11/3/2022. Understand better. Transformers as general purpose differentiable program. Working with optimized hand coded programs.  
+
 
 ### App A: Math  
 
