@@ -21,13 +21,18 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 
 ### II. My exercises from Chollet, Deep Learning with Python, 2nd ed, c 2021       
 
- * Manning book:  https://www.manning.com/books/deep-learning-with-python-second-edition  
- * Github repo:  https://github.com/fchollet/deep-learning-with-python-notebooks  
+  * Manning book:  https://www.manning.com/books/deep-learning-with-python-second-edition  
+  * Github repo:  https://github.com/fchollet/deep-learning-with-python-notebooks  
+  * Best chapter was 12, Generative Models. Is largely unchanged from 1st ed.  
+  * Transformers section insufficient. Suppliment with many other sources, esp. image transformers.  
+  * Chp 10, 11 examples not good at demonstrating concepts. 
+  * Chp 5 encoding, chp 9 advanced vision CNN - most important at concepts, other than 12.  
+  * Chp 11 minor code errors, old unsupported command, typo function call, encoder not in same notebook as decoder. Colab only loads one notebook at a time, so all sections need to be in one Jupyter Notebook.  
 
-### IIb. Handson-on Machine Learning 2nd ed.  
+### IIb. A. Geron, Handson-on Machine Learning 2nd ed, c 2019 
 
   * Current practice repo is "learn-ml".  May move to this repo.  
-
+  * Much fuller RNN section than Chollet.  
 
 ### III. Practical Deep Learning for Coders, fastai 
 
