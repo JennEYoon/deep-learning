@@ -25,8 +25,8 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
   * Github repo:  https://github.com/fchollet/deep-learning-with-python-notebooks  
   * Best chapter was 12, Generative Models. Is largely unchanged from 1st ed.  
   * Transformers section insufficient. Suppliment with many other sources, esp. image transformers.  
-  * Chp 10, 11 examples not good at demonstrating concepts. 
-  * Chp 5 encoding, chp 9 advanced vision CNN - most important at concepts, other than 12.  
+  * Chp 10, 11 examples not good at demonstrating concepts. Not sure what temperature readings from one location show about time-series. Results underwhelming. Text generation example not as good as other sources, Results also not good. 
+  * Chp 5 encoding, chp 9 advanced vision CNN - most important at concepts, other than 12.  Text generation works better at fictitious Shakespear's sonnet, in others demos. RNN is punted mostly. See A. Geron book for fuller treatment. RNN still iseful for games play.  
   * Chp 11 minor code errors, old unsupported command, typo function call, encoder not in same notebook as decoder. Colab only loads one notebook at a time, so all sections need to be in one Jupyter Notebook.  
 
 ### IIb. A. Geron, Handson-on Machine Learning 2nd ed, c 2019 
