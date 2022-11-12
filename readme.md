@@ -16,7 +16,7 @@ Git history cleanup, remove deleted folders/large files from git history on 6/25
 
   * Magnus Ekman, Learning Deep Learning, NVIDIA Deep Learning Institute, c 2022 NVIDIA Corp., Addison-Wesley publishing
 
-Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  I don't know what transformers are in deep learning, so that will be interesting.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries.   
+Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries. PyTorch version of all chapter code is available online.  NVIDIA GTC conference in 2021 and 2022 demo the book in a tutorial.  
 
 
 ### II. My exercises from Chollet, Deep Learning with Python, 2nd ed, c 2021       
@@ -44,8 +44,12 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
        - Nvidea provides a table to check.
     conda env dl - Pytorch, fastai v2, Python v3.7
     VS Code with Python v3.10 extension installed on Windows side (for wsl and windows use)    
+     * Laptop notes: only 6GB VRAM, limits batch size and image pixel size. Class examples are fine.  
+        - RTX 3070 Laptop GPU - sweet spot in power consumption, price, speed.  
+        - Equivalent to Colab GPU 2nd level, 90% faster than 1st level GPU (P100) on language models.  
 
-  * I use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
+
+  * 2nd CPU laptop:  I use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
   * PyTorch v 1.6 stable also installed to "dlpy" env on Ubuntu (WSL).  
 
