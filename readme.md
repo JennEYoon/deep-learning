@@ -24,6 +24,11 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
  * Manning book:  https://www.manning.com/books/deep-learning-with-python-second-edition  
  * Github repo:  https://github.com/fchollet/deep-learning-with-python-notebooks  
 
+### IIb. Handson-on Machine Learning 2nd ed.  
+
+  * Current practice repo is "learn-ml".  May move to this repo.  
+
+
 ### III. Practical Deep Learning for Coders, fastai 
 
 ***Moved to "fastai-deep-learning" repo in Oct 2021***  
