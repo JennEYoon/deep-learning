@@ -25,9 +25,11 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
   * Github repo:  https://github.com/fchollet/deep-learning-with-python-notebooks  
   * Best chapter was 12, Generative Models. Is largely unchanged from 1st ed.  
   * Transformers section insufficient. Suppliment with many other sources, esp. image transformers.  
-  * Chp 10, 11 examples not good at demonstrating concepts. Not sure what temperature readings from one location show about time-series. Results underwhelming. Text generation example not as good as other sources, Results also not good. 
-  * Chp 5 encoding, chp 9 advanced vision CNN - most important at concepts, other than 12.  Text generation works better at fictitious Shakespear's sonnet, in others demos. RNN is punted mostly. See A. Geron book for fuller treatment. RNN still iseful for games play.  
+  * Chp 10, 11 examples not good at demonstrating concepts. Not sure what temperature readings from one location show about doing time-series. Results underwhelming. Text generation example not as good as other sources. Results also underwhelming.  
+  * Chp 5 encoding, chp 9 advanced vision CNN - most important at concepts, other than 12.  Text generation works better at fictitious Shakespear's sonnet, as seen in others peoples' examples. RNN is punted mostly. See A. Geron book for fuller treatment. RNN is still useful for games, e.g. Pong, Chess.  
   * Chp 11 minor code errors, old unsupported command, typo function call, encoder not in same notebook as decoder. Colab only loads one notebook at a time, so all sections need to be in one Jupyter Notebook.  
+  * Chp 1 exaggerates user numbers for Keras library relative to other Python libraries using a Kaggle 2021 user survey. Unnecessary since Keras is a foundational library in Python deep learning. 
+Most users in the survey never entered a Kaggle challenge and never ran a deep learning model, so the results were heavily skewed towards newbies. Then he eliminated Scikit-Learn, which should have been a clear winner. Also PyTorch and Fastai libraries should have been in the running along with Tensorflow and Keras, but is not there.  
 
 ### IIb. A. Geron, Handson-on Machine Learning 2nd ed, c 2019 
 
