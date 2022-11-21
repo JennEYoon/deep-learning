@@ -24,3 +24,5 @@ Visualization of feature channels useful.
 
 Depthwise separable - good for feature channels but not RGB color channels, which are correlated.  
 Feature channels assu,pmed to be uncorrelated.  
+
+GATO - feature channels of image and label text start out uncorrelated, orthogonal, but as it trains, there is feedback and encoding space no longer uncorrelated between images and text channels.  
