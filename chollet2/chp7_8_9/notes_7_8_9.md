@@ -20,4 +20,7 @@ Has 3 parts. Do only one chapter next.
  * Chp 14 Conclusion nb has summary code for models DenseLayer, CNN, RNN, Transformer.  
  * Transformer uses fully connected layers modified by attention weights, layerwise weights or batchwise weights, skip connections and residual feedback. Inherent parallelization.  
 
+Visualization of feature channels useful.  
 
+Depthwise separable - good for feature channels but not RGB color channels, which are correlated.  
+Feature channels assu,pmed to be uncorrelated.  
