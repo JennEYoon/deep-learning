@@ -29,5 +29,5 @@ GATO - feature channels of image and label text start out uncorrelated, orthogon
 
 #### Nov 20, 2022 - to run code before small group meetup.  
 
-See paper on various normalization methods  
+See paper [Group Normalization Methods] in folder, on various normalization methods:    
 <img src="normalization_methods.png" alt="image normalization methods" >
