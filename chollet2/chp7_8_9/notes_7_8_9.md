@@ -28,3 +28,6 @@ Feature channels assu,pmed to be uncorrelated.
 GATO - feature channels of image and label text start out uncorrelated, orthogonal, but as it trains, there is feedback and encoding space no longer uncorrelated between images and text channels.  
 
 #### Nov 20, 2022 - to run code before small group meetup.  
+
+See paper on various normalization methods  
+<img src="normalization_methods.png" alt="image normalization methods" >
