@@ -23,7 +23,11 @@
 !pip install [libr name] --y, --qq  (check)    
 [Yes to query, quiet install] 
 
+#### check library version
+import tensorflow as tf  
+print(tf.__version__)  
 
+(write how Nvidia ami code) 
 
 
 
