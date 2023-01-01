@@ -17,7 +17,11 @@
 
 
 
-#### Pandas:  
+#### Jupyter NB navigation:  
+
+!Python --version  (prints current version) 
+!pip install [libr name] --y, --qq  (check)    
+[Yes to query, quiet install] 
 
 
 
