@@ -13,7 +13,7 @@ Suppllimentary paper - downloaded.
 Website has more information  
 Github has code and notebooks.  
 
-
+### 1/19/2023 TH Meetup, ML Papers Club:  
 Lambda weight, language model vs strategy.  
 Later in the game, less weight lambda for human like language, engagement to build alliance.  
 Just try to win, so weight strategy more.  
