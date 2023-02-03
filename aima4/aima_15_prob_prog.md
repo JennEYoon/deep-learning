@@ -1,4 +1,4 @@
-# Notes for probabilistic programming chp 15 
+# probabilistic programming chp 15, Global version chp 18.  
 
 Feb 2, 2023 8ppm Meetup.  
 
@@ -7,10 +7,8 @@ Add to calendar
 Online event
 https://betterview.zoom.us/j/81979383410?pwd=VVhIZGFKd2N4aHo5UlNCS1lHaUtDdz09
 
-Feb 2nd Meetup:  
+LinkedIn connection. ML Papers Club.  
 
-Chp 15 Prob Prog, Chp 16 Simple Decisions
--- To catch up by Beg Feb 2023. 
 
 
 
