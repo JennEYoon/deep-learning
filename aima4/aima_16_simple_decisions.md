@@ -8,6 +8,13 @@ Online event
 https://betterview.zoom.us/j/81979383410?pwd=VVhIZGFKd2N4aHo5UlNCS1lHaUtDdz09
 
 Notes:  
+More like economics. Decision under uncertainty.  
+
+Bayesian Method for Hackers, all in Python  
+Helps write AI code in Python, examples.  
+Stephen Milligan, older black man.  
+Liked my book recommencation, NVIDIA Eckman deep learning book.  
+
 
 
 
