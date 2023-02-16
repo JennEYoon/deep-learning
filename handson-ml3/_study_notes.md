@@ -10,3 +10,13 @@ Has good updated chapters on generative models, diffusion models, Pathways, GATO
 
 Edits for fork does not count towards github commit squares.  
 
+### Feb 15, 2023:  
+Chp 1  
+Interesting use of text in plots. Try looping through highlighted countries ti assign different markers to each country. Practice plotting.  
+Regression, makes several lines. Try doing regression calculation by hand. Recall formula.  R squared and adjusted R squared.  
+
+Do full notebook. Create a similar notebook using energy consumption per capita and GDP. Try life satisfactiin vs energy consumption. Is energy consumption a good proxy for GDP?  
+
+
+
+
