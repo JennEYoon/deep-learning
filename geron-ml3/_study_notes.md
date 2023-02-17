@@ -13,15 +13,31 @@ Edits for fork does not count towards github commit squares.
 ### Feb 15, 2023:  
 Chp 1  
 Interesting use of text in plots. Try looping through highlighted countries to assign different markers and colors to each country. Practice plotting.  
-Regression, makes several lines. Try doing regression calculation by hand. Recall formula.  R squared and adjusted R squared.  
+Regression, makes several lines. Try doing regression calculation by hand. Recall formula. R-squared and adjusted-R-squared.  
 
 Do full notebook. Create a similar notebook using energy consumption per capita and GDP. Try life satisfactiin vs energy consumption. Is energy consumption a good proxy for GDP?  Corralation of energy consumption and GDP.  
 
 Data is for 2015. Stored in github.com/ageron/data repo.  
-Re-run. Get data for other periods. See if the slope has changed over time.  Will it be accurate to say there are 2 or 3 curves? Middle income countries and lower and upper income countries?  Or authoritatian and democracies?  
+Re-run. Get data for other periods. See if the slope has changed over time.  Will it be accurate to say there are 2 or 3 curves? Middle income countries and lower and upper income countries?  Or authoritatian and democracies? Make graphs for different periods. Compare time periods.  
 
-Answer all questions.  
+Source: https://www.oecdbetterlifeindex.org  
+Better Life Index, 100,000 users volunteer, not statistically random sampling.  
+
+Source:  https://ourworldindata.org  
+World Bank, GDP/Capita
 
 Matplotlib code is interesting. Try memorizing these.  
+Outlier in high life satisfaction but lower GDP per capita is Isreal.  
+US is outlier in lower satisfaction for higher GDP per capita.  
+All 2015 data in USD.  
+
+Country     GDP/Capita  Life-Sat
+Isreal      $38,341     7.2
+
+Russia      26,456      5.8  
+Greece      27,287      5.4  
+Turkey      28,384      5.5  
+Hungary     31,007      5.6  
+Portugal    32,181      5.4  
 
 
