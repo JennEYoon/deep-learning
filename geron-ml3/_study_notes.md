@@ -40,4 +40,11 @@ Turkey      28,384      5.5
 Hungary     31,007      5.6  
 Portugal    32,181      5.4  
 
+### 2/23/2023 7am, Chp 1:  
+Finished working on Chp 1.  
+Saved Figure, matplotlib pyplot  
+plt.savefig('filename', format='png')
+Must be executed in the same cell as when figure is plotted, in memory.  
+Jupyter nb clears memory in next cell, so if gone.  
 
+<img src="" width=600 />
