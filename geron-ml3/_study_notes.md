@@ -47,4 +47,4 @@ plt.savefig('filename', format='png')
 Must be executed in the same cell as when figure is plotted, in memory.  
 Jupyter nb clears memory in next cell, so if gone.  
 
-<img src="" width=600 />
+<img src="chp1_GDP_LifeSat.png" width=600 />
