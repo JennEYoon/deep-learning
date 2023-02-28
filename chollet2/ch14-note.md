@@ -13,5 +13,10 @@ To Summarize for review.
 Run code from chp 7, 8, 9, 13.  
 Review earlier chapters code 5. Experiment.  
 
+Meetup today.  
+All went well, not much discussion from Peter, Dan.  
 
+To do: code templates try.  
+To do: 7 intellectual generalizations read.  
+Summarize notes.  
 
