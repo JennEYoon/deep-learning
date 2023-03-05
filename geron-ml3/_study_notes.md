@@ -53,4 +53,10 @@ Jupyter nb clears memory in next cell, so if gone.
  * More practice with drawing arrow in Matplotlib, LaTex mu and signa (r'$\mu=x, sigma=y\$') ?  
  * Try adding a photo or png plot to jupyter notebook.  
 
+### Q&A  
+Copy all questions, write them out.  
+Reproduce graphs and arrows on the rest of chapter 1.  
+
+
+
 
