@@ -1,14 +1,9 @@
-# chp 16 Making Simple Decisions notes
+# chp 16 Making Simple Decisions notes (US chp 15)
 
-# Feb 2, 2023 Meetup  
-
-Thursday, February 2, 2023 at 8:00 PM to Thursday, February 2, 2023 at 9:30 PM EST
-Add to calendar
-Online event
-https://betterview.zoom.us/j/81979383410?pwd=VVhIZGFKd2N4aHo5UlNCS1lHaUtDdz09
+Was Feb 2023 - pushed back to March 9, 2023.
 
 Notes:  
-More like economics. Decision under uncertainty.  
+More like economics. Decision under uncertainty, Utility functions.  
 
 Bayesian Method for Hackers, all in Python  
 Helps write AI code in Python, examples.  
