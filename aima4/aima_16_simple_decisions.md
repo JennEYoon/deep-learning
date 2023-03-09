@@ -1,4 +1,4 @@
-# chp 16 Making Simple Decisions notes (US chp 15)
+# chp 16 Making Simple Decisions notes (Global chp 15)
 
 Was Feb 2023 - pushed back to March 9, 2023.
 
