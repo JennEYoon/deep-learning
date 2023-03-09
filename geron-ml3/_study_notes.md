@@ -66,5 +66,5 @@ To do:
    - Don't use ax.annotate, ax.scatter(). Parameters too hard to use, syntax.    
  * Data pre-processing, from 2022 data, 2010 and 2000 historical data too. 
  * Geron nb has good code on how to pre-process data. Use df.pivot()
-
+ * 4h code, 4h plan/org, 3/8 pm - 3/9 am.
 
