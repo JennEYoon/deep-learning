@@ -57,6 +57,14 @@ Jupyter nb clears memory in next cell, so if gone.
 Copy all questions, write them out.  
 Reproduce graphs and arrows on the rest of chapter 1.  
 
+### 3/9/2023 4am:  
+Chp 1 answered all questions. 
 
+To do:  
+ * Separate notebook, practice arrow annotions, zip/collections.  
+   - Use plt.annotate and plt.plot(kind='scatter') or plt.scatter().  
+   - Don't use ax.annotate, ax.scatter(). Parameters too hard to use, syntax.    
+ * Data pre-processing, from 2022 data, 2010 and 2000 historical data too. 
+ * Geron nb has good code on how to pre-process data. Use df.pivot()
 
 
