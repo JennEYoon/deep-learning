@@ -64,9 +64,10 @@ To do:
  * Separate notebook, practice arrow annotions, zip/collections.  
    - Use plt.annotate and plt.plot(kind='scatter') or plt.scatter().  
    - Don't use ax.annotate, ax.scatter(). Parameters too hard to use, syntax.    
-   - OK an.annotate() for arrows works. See annotate3.ipynb.  
-   - To Do: Full examples using plt.plot() gcf style and ax.plot() OO style.
-   - To Do: pd.plot(kind='scatter') style. Use linegraph instead of scatter, less efficient.  
+   - memo 3/19: OK an.annotate() for arrows works. See annotate3.ipynb.  
+   - To Do 3/19: Full examples using plt.plot() gcf style and ax.plot() OO style.
+   - To Do 3/19: pd.plot(kind='scatter') style. Use line graph instead of scatter, less efficient. 
+      * how to use Pandas wrapper to plot?    
  * Data pre-processing, from 2022 data, 2010 and 2000 historical data too. 
    - Data downloaded from ~2002 to 2020, OECD lifesat survey, OECD gdp per capita, household income, household wealth. 
    - Also compare with fertility rates, see if haapiness explains low fertility for similar GDP rates. Isreal outlier.  
@@ -74,4 +75,5 @@ To do:
  * Geron nb has good code on how to pre-process data. Use df.pivot()
    - To Do: Pandas practice, pre-processing lifesat data from other countries, years.  
  * 4h code, 4h plan/org, 3/8 pm - 3/9 am.
+ * More coding hours, to 3/19/2023.  
 
