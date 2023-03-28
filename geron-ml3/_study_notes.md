@@ -77,3 +77,8 @@ To do:
  * 4h code, 4h plan/org, 3/8 pm - 3/9 am.
  * More coding hours, to 3/19/2023.  
 
+### 3/28 meetup:  
+Next time April 17 Monday, Chp 2 first half.  
+ * to do: New data processing 2003, 2010, 2015, 2022.  
+
+
