@@ -63,12 +63,14 @@ Chp 1 answered all questions.
 To do:  
  * Separate notebook, practice arrow annotions, zip/collections.  
    - Use plt.annotate and plt.plot(kind='scatter') or plt.scatter().  
-   - Don't use ax.annotate, ax.scatter(). Parameters too hard to use, syntax.    
-   - memo 3/19: OK an.annotate() for arrows works. See annotate3.ipynb.  
-   - To Do 3/19: Full examples using plt.plot() gcf style and ax.plot() OO style.
-   - To Do 3/19: pd.plot(kind='scatter') style. Use line graph instead of scatter, less efficient. 
-      * how to use Pandas wrapper to plot?    
- * Data pre-processing, from 2022 data, 2010 and 2000 historical data too. 
+   - Done 3/19: ax.annotate, ax.scatter() works! See notebook "annotate3.ipynb" 
+   - To Do 3/19: df.plot(kind='scatter') or df.scatter() Pandas wrapper on Matplotlib style. 
+      * Use line graph instead of scatter. Scatter less efficient computationally. 
+      * how to use Pandas wrapper to plot? Do some practice.    
+   - To Do 3/28: zip/collections, iterables: for processing country data OECD, happiness & wealth.  
+   - To Do 3/28: Complete examples of ax.plot() and plt.plot() styles. Compare and contrast. Different ways of using them.
+   - 
+ * Data pre-processing, from 2022 data, other periods (2000, 2005, 2008, 2009, 2010, 2015) historical data too. 
    - Data downloaded from ~2002 to 2020, OECD lifesat survey, OECD gdp per capita, household income, household wealth. 
    - Also compare with fertility rates, see if haapiness explains low fertility for similar GDP rates. Isreal outlier.  
    - If living conditions are more comfortable, fertility rate may go up?   
