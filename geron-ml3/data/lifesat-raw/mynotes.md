@@ -17,8 +17,12 @@ OECD countries plus Russia, Brazil, South Africa
 
  * Costa Rica has now completed its domestic procedures for ratification of the OECD Convention and deposited its instrument of accession. This brings to a successful conclusion an accession process that began in April 2015.  
 
+### Cyprus 2020 happiness:  
+Get source. 6.2 in 2020. up from 5.7 in 2015. 
 
 ea714361-en.pdf:  
 How's Life? 2020, OECD Publishing, Executive Summary.  
 Full report:  https://doi.org/10.1787/9870c393-en  
+  
+  
   
