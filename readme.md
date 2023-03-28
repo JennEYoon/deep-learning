@@ -3,23 +3,23 @@
 Created: May 22, 2020  
 Author: Jennifer E. Yoon  
 
-Git history cleanup, remove deleted folders/large files from git history on 6/25/2022
- * Successfully reduced repo size from 1.3 GB to under 500 MB.   
- * Removed empty commits related to deleted folders and deleted large files. Commit history number for repo declined, as expected.    
- * Unexpectedly increased total number of commits on github commit history graph by 900 in 2020 and 600 in 2021.  No fix.  Seems to be Github error.  
- * Hard reset on Github, delete existing repo, then create fresh repo with same name, push from local to Github.  Fixed weird problem with too many extra commits on GITHUB commit history graph, but lost a few stars and forks from other users who had been following this repo.  
- * Decided to make the trade off.   
- 
----  
 
-### I. NVIDIA deep learning book  
-
-  * Magnus Ekman, Learning Deep Learning, NVIDIA Deep Learning Institute, c 2022 NVIDIA Corp., Addison-Wesley publishing
-
-Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries. PyTorch version of all chapter code is available online.  NVIDIA GTC conference in 2021 and 2022 demo the book in a tutorial.  
+The purpose of this repositories is to assist my study of machine learning and deep learning.  The following are the books and courses I am studying.  I reproduce the code in the books and try my own tweaks and alternative examples.  I also expand upon the examples in the book by using alternative data and running alternative experiments.  .  
+.   I am a member of local Meetups in Virginia, USA, where we study machine learning and deep learning together.  
 
 
-### II. My exercises from Chollet, Deep Learning with Python, 2nd ed, c 2021       
+### I. Aurelien Geron, Handson-on Machine Learning, 3rd ed, c 2023  
+/geron-ml3/ 
+
+  * Started studying this book with my small group in March 2023. 
+  * Very good classic ML chapters in part 1. Good review of code examples.  
+  * To expand each notebook with my own data and code.    
+  * Much fuller RNN section than Chollet. DL chapters generally have more explanation than Chollet.  
+  * Good addition to Cholett book.  .     
+
+
+### IIa. My exercises from Chollet, Deep Learning with Python, 2nd ed, c 2021       
+/chollet2/
 
   * Manning book:  https://www.manning.com/books/deep-learning-with-python-second-edition  
   * Github repo:  https://github.com/fchollet/deep-learning-with-python-notebooks  
@@ -31,10 +31,14 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
   * Chp 1 exaggerates user numbers for Keras library relative to other Python libraries using a Kaggle 2021 user survey. Unnecessary since Keras is a foundational library in Python deep learning. 
 Most users in the survey never entered a Kaggle challenge and never ran a deep learning model, so the results were heavily skewed towards newbies. Then he eliminated Scikit-Learn, which should have been a clear winner. Also PyTorch and Fastai libraries should have been in the running along with Tensorflow and Keras, but is not there.  
 
-### IIb. A. Geron, Handson-on Machine Learning 2nd ed, c 2019 
 
-  * Current practice repo is "learn-ml".  May move to this repo.  
-  * Much fuller RNN section than Chollet.  
+### IIb. NVIDIA deep learning book  
+/ekman-ldl/
+
+  * Magnus Ekman, Learning Deep Learning, NVIDIA Deep Learning Institute, c 2022 NVIDIA Corp., Addison-Wesley publishing
+
+Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries. PyTorch version of all chapter code is available online.  NVIDIA GTC conference in 2021 and 2022 demo the book in a tutorial.  
+
 
 ### III. Practical Deep Learning for Coders, fastai 
 
@@ -54,12 +58,13 @@ Most users in the survey never entered a Kaggle challenge and never ran a deep l
     conda env base - Tensorflow v 2.6, Cuda toolkit, Cuda gpu drivers, python v 3.8.  
        - note NVIDIA GPU driver version and Cude toolkit version must ve compatible with Tensorflow version installed,  
        - Nvidea provides a table to check.
-    conda env dl - Pytorch, fastai v2, Python v3.7
+    conda env dl - Pytorch, fastai v2, Python v3.7 (for Chollet 2nd ed book)
     VS Code with Python v3.10 extension installed on Windows side (for wsl and windows use)    
      * Laptop notes: only 6GB VRAM, limits batch size and image pixel size. Class examples are fine.  
         - RTX 3070 Laptop GPU - sweet spot in power consumption, price, speed.  
         - Equivalent to Colab GPU 2nd level, 90% faster than 1st level GPU (P100) on language models.  
-
+    2nd miniconda3 on C:/python/conda3/ Windows 10 OS.  
+    conda base env has basic ML/DL libraries, python version 3.9.   
 
   * 2nd CPU laptop:  I use conda env "dlpy" on Ubuntu (WSL), CPU x86 laptop:  
     Ubuntu-side "dlpy" env has python v 3.8, tensorflow v 2.2 installed using pip.  
@@ -69,9 +74,21 @@ Most users in the survey never entered a Kaggle challenge and never ran a deep l
   * Miniconda3 windows version installed on C drive, Python version 3.9 base environment.  
     - Use with code on C drive.  
 
-###  VI. License - Apache 2.0  
 
-   Copyright 2020-2022 by Jennifer E. Yoon
+### VI. Git repo cleanup, history:  
+
+ On 6/25/2022 performed git repo history cleanup. Remove deleted folders & large files from git commit history.
+ * Successfully reduced repo size from 1.3 GB to under 500 MB.   
+ * Removed empty commits related to deleted folders and deleted large files. Commit history number for repo declined, as expected.    
+ * Unexpectedly increased total number of commits on github commit history graph by 900 in 2020 and 600 in 2021.  No fix.  Seems to be Github error.  
+ * Hard reset on Github, delete existing repo, then create fresh repo with same name, push from local to Github.  Fixed weird problem with too many extra commits on GITHUB commit history graph, but lost a few stars and forks from other users who had been following this repo.  
+ * Decided to make this trade off.   
+ 
+---  
+
+###  VII. License - Apache 2.0  
+
+   Copyright 2020-2023 by Jennifer E. Yoon
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
