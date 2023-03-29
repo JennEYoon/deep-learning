@@ -1,0 +1,6 @@
+# March 28, 2023 to do, chp 9.  
+
+Me to present DSML meetup April 11, 2023 6pm-9pm. 
+Chp 9.1-9.3.2/3 
+
+Do image segmentation, github profile image, switch background to diffused grass image.  
