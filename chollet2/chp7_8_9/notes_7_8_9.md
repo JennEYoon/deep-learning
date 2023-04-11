@@ -31,3 +31,8 @@ GATO - feature channels of image and label text start out uncorrelated, orthogon
 
 See paper [Group Normalization Methods] in folder, on various normalization methods:    
 <img src="normalization_methods.png" alt="image normalization methods" >
+
+
+### chp 9 talk document  
+
+https://github.com/JennEYoon/deep-learning/blob/main/chollet2/chp7_8_9/chp9_meetup_talk_jyoon.docx
