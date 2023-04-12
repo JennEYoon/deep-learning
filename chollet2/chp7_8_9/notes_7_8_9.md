@@ -37,5 +37,9 @@ See paper [Group Normalization Methods] in folder, on various normalization meth
 
 https://github.com/JennEYoon/deep-learning/blob/main/chollet2/chp7_8_9/chp9_meetup_talk_jyoon.docx
 
+DSML Meetup, April 11, 2023, Chollet chp 9.1-9.3
+
 Question from:  Mattew Kehoe
 https://github.com/matthewshawnkehoe/deep-learning-with-python-notebooks
+
+Mattew demoed running code, downloading tar files on Colab Unix setup.  
