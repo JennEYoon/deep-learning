@@ -36,3 +36,6 @@ See paper [Group Normalization Methods] in folder, on various normalization meth
 ### chp 9 talk document  
 
 https://github.com/JennEYoon/deep-learning/blob/main/chollet2/chp7_8_9/chp9_meetup_talk_jyoon.docx
+
+Question from:  Mattew Kehoe
+https://github.com/matthewshawnkehoe/deep-learning-with-python-notebooks
