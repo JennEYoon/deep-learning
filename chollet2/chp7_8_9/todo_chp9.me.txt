@@ -1,6 +1,10 @@
 # March 28, 2023 to do, chp 9.  
 
 Me to present DSML meetup April 11, 2023 6pm-9pm. 
-Chp 9.1-9.3.2/3 
+Chp 9.1-9.3.2/3 Done.  
+Migrain headach during presentation, brought on by multi-screen, comments flickering dujring talk.  
+Rest eyes before meeting.  
 
 Do image segmentation, github profile image, switch background to diffused grass image.  
+Try image apps.  
+Canva cancel acct.  
