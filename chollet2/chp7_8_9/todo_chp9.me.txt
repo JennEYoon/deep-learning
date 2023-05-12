@@ -8,3 +8,5 @@ Rest eyes before meeting.
 Do image segmentation, github profile image, switch background to diffused grass image.  
 Try image apps.  
 Canva cancel acct.  
+
+To run 9.4 and 9.33 putting it all together.  
