@@ -5,5 +5,4 @@ notebooks/.ipynb_checkpoints/
 .tar
 .tar.gz
 .hdf5
-.docx
-
+.tgz
