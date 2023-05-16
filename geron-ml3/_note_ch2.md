@@ -6,6 +6,7 @@ Overpla city locations map over it.
 Run all the code first, then detailed work. Friday 5/12/2023 run.  
 Sat continue chp2 code.  
 
-
+P89 Better Evaluation using Cross Validation -- takes too long.  
+Rerun on GPU, local ROG.  
 
 
