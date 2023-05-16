@@ -83,4 +83,13 @@ To do:
 Next time April 17 Monday, Chp 2 first half.  
  * to do: New data processing 2003, 2010, 2015, 2022.  
 
+### June Meetup small group:  
+June 19 Monday 6:30 pm in-person. 7-Corners B&N, Huong Viet for dinner after.  
+Chp 2 own code, new data or exercises at end.  Chp 3 read through for discussion.  
+May 15, 2023 Meeting went well, virtual 1h 15min.  
+Review code p75-97 me.  
+
+
+
+
 
