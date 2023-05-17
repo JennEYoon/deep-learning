@@ -26,7 +26,9 @@ The purpose of this repositories is to assist my study of machine learning and d
   * Best chapter was 12, Generative Models. Is largely unchanged from 1st ed.  
   * Transformers section insufficient. Suppliment with many other sources, esp. image transformers.  
   * Chp 10, 11 examples not good at demonstrating concepts. Not sure what temperature readings from one location show about doing time-series. Results underwhelming. Text generation example not as good as other sources. Results also underwhelming.  
-  * Chp 5 encoding, chp 9 advanced vision CNN - most important at concepts, other than 12.  Text generation works better at fictitious Shakespear's sonnet, as seen in others peoples' examples. RNN is punted mostly. See A. Geron book for fuller treatment. RNN is still useful for games, e.g. Pong, Chess.  
+  * Chp 5 encoding, chp 9 advanced vision CNN - most important at concepts, other than 12 (review encoding in VAR).  Text generation works better at fictitious Shakespear's sonnet, as seen in others peoples' examples. RNN is punted mostly. See A. Geron book for fuller treatment. RNN is still useful for games, e.g. Pong, Chess.  
+  * Chp 9 repeat April 2023 w DSML Meetup, see Matt Kehoe nb for 9.4. Review this code. 
+  * Chp 6, 7, 8 - house keeping, how to use Keras. Looked over once, but later review when needed.    
   * Chp 11 minor code errors, old unsupported command, typo function call, encoder not in same notebook as decoder. Colab only loads one notebook at a time, so all sections need to be in one Jupyter Notebook.  
   * Chp 1 exaggerates user numbers for Keras library relative to other Python libraries using a Kaggle 2021 user survey. Unnecessary since Keras is a foundational library in Python deep learning. 
 Most users in the survey never entered a Kaggle challenge and never ran a deep learning model, so the results were heavily skewed towards newbies. Then he eliminated Scikit-Learn, which should have been a clear winner. Also PyTorch and Fastai libraries should have been in the running along with Tensorflow and Keras, but is not there.  
@@ -37,7 +39,7 @@ Most users in the survey never entered a Kaggle challenge and never ran a deep l
 
   * Magnus Ekman, Learning Deep Learning, NVIDIA Deep Learning Institute, c 2022 NVIDIA Corp., Addison-Wesley publishing
 
-Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries. PyTorch version of all chapter code is available online.  NVIDIA GTC conference in 2021 and 2022 demo the book in a tutorial.  
+Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries. PyTorch version of all chapter code is available online.  NVIDIA GTC conference in 2021 and 2022 demo the book in a tutorial.  To download PyTorch notebooks and try some.  
 
 
 ### III. Practical Deep Learning for Coders, fastai 
