@@ -55,3 +55,9 @@ done - future of AI chp 28 US version.
 To read chp 8, 9  
 Reading NLP chp 25.  Better explanation than Chollet.  
 Chp 7 Logical Agents started.  
+
+### May 2023:  
+ML Papers Club, not regular meeting time. Elsa and Julius busy?  
+No longer following AIMA book.  Too big. Got a gist, but didn't read a lot of the chapters.  
+Maybe later to read? Maybe Algorithms is more applicatble.  
+
