@@ -14,3 +14,9 @@ my fork:  https://github.com/JennEYoon/handson-ml3-fork
 github:  https://github.com/ageron/handson-ml3
 
 colab:  https://colab.research.google.com/github/ageron/handson-ml3/blob/main/  
+
+nbviewer version, easy to read from Geron's Github  
+https://nbviewer.org/github/ageron/handson-ml3/blob/main/index.ipynb  
+
+
+
