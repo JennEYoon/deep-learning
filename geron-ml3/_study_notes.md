@@ -89,7 +89,9 @@ Chp 2 own code, new data or exercises at end.  Chp 3 read through for discussion
 May 15, 2023 Meeting went well, virtual 1h 15min.  
 Review code p75-97 me.  
 
-
+### June 8,2023:  
+Start running code for chp3.  
+iPad Keyboard settings,off no space.  Fix it.  
 
 
 
