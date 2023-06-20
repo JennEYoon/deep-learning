@@ -32,7 +32,7 @@ The purpose of this repositories is to assist my study of machine learning and d
   * Chp 11 minor code errors, old unsupported command, typo function call, encoder not in same notebook as decoder. Colab only loads one notebook at a time, so all sections need to be in one Jupyter Notebook.  
   * Chp 1 exaggerates user numbers for Keras library relative to other Python libraries using a Kaggle 2021 user survey. Unnecessary since Keras is a foundational library in Python deep learning. 
 Most users in the survey never entered a Kaggle challenge and never ran a deep learning model, so the results were heavily skewed towards newbies. Then he eliminated Scikit-Learn, which should have been a clear winner. Also PyTorch and Fastai libraries should have been in the running along with Tensorflow and Keras, but is not there.  
-
+  * San Diego Machine Learning meetup group on YouTube discuss all 19 chapters of 2nd ed book. Very similar to 3rd ed chp 1-13.  
 
 ### IIb. NVIDIA deep learning book  
 /ekman-ldl/
