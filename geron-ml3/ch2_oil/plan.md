@@ -1,5 +1,7 @@
 # Chp2 data project, oil before and during Russia-Ukrain war.  
 
+### Brain storm:  
+
 Chart supply out of Russia, compare to 5 years before, also 1991-2 fall of Soviet and bankruptcy.  
 Compare US exports and production levels.  
 Compare US Shale production levels.  
@@ -17,7 +19,7 @@ Shipping vessels information, comb through these data, transponder data, figure 
 Russian oil has sulfer, so should be able to identify it, mixture require sweet crude.  
 
 
-First to some time series analysis, seasonality, alpha channel to show historical bands, 5yr prior and 1991.  
+I) First to some time series analysis, seasonality, alpha channel to show historical bands, 5yr prior and 1991.  
 Then more cool maps showing shipping vessels.  
 
 Predict Russian productions quantity, July 2023-2033, 10 years.  
@@ -29,7 +31,7 @@ Predict Russian productions quantity, July 2023-2033, 10 years.
   * Insurers reports on shipping from Russia.
   * How does it compare to 1991-1996, when production and exports declined for a time?
 
-Predict rest of the world adjustments, responses:  
+II) Predict rest of the world adjustments, responses:  
   * Marginal oil producers will increase production. Western countries may help some of these countries that were previously sanctioned?
   * Canada and US will build export facility for oil and LNG.
   * Lower water levels prevent large ships from using Suez Canal, may develop alternative paths?
@@ -39,7 +41,7 @@ Predict rest of the world adjustments, responses:
   * Venezuela and Columbia may produce some marginal crude.
   * Food production may shift to S America, need to pathways to sell feom Pacific Ocean side.  Argentina and Chile should work together to build a pathway from interior to the West, sell to SE Asia and India.   
     
-
+III) Misc thoughts:  
 Show band of historical production, forecast production.  
 Use time series tabular data.  
 Macro events correlations. 
@@ -49,11 +51,16 @@ Also track shipping information, satellite images, flares, cars/truck activity.
 
 Predict US production and exports, where? Asia, S America, Europe.  
 
+
+
+### Web Research:  
+Download pictures from public websites, in iPad  
+Source: IEA Monthly Reports  
+
 ### First Item:  
 
   * Get oil and gas production numbers, Russia, IEA monthly report or raw data if available.
   * Superimpose on 1991-2021.  Predict how much Russia will continue to produce for the next 10 years.  Europe stops purchase in Dec2022-March2023. A small amount is exempt, but OK.
   * Look at consumption figures from the rest of the world as a check on Russian production.
   * Campare with production from US and Canada, oil and gas, same years, as a sanity check.   
-
 
