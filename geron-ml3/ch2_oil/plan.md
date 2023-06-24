@@ -20,6 +20,13 @@ Russian oil has sulfer, so should be able to identify it, mixture require sweet 
 First to some time series analysis, seasonality, alpha channel to show historical bands, 5yr prior and 1991.  
 Then more cool maps showing shipping vessels.  
 
-Predict Russian productions quantity and price later this year.  
+Predict Russian productions quantity and price, July 2023-12/2024. 
+Show band of historical production, forecast production.  
+Use time series tabular data.  
+Macro events correlations. 
+Shorter term ARIMA to model seasonality.  
+Lots of exploratory visual analysis.  
+Also track shipping information, satellite images, flares, cars/truck activity.  
+
 Predict US production and exports, where? Asia, S America, Europe.  
 
