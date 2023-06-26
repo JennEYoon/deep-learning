@@ -21,7 +21,7 @@ https://nbviewer.org/github/ageron/handson-ml3/blob/main/index.ipynb
 YouTube 2nd ed book, San Diego Machine Learning group ch 1-19, plus transformers extras:  
 https://www.youtube.com/playlist?list=PLmp4AHm0u1g3evuqj8zX3q75GHjfAwOLs  
 
-Another YouTuber ch 1-0 only:  
+Another YouTuber 2nd ed book ch 1-8 only:  
 https://www.youtube.com/playlist?list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ  
 
 
