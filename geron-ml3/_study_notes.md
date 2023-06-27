@@ -94,4 +94,12 @@ Start running code for chp3.  
 iPad Keyboard settings,off no space.  Fix it.  
 
 
+### 6/16/2023 Notes:  
+Meeting today 1.5h, good discussion.  Both Dan and Peter happy.  
+Next meeting 7/24 Monday 6:30pm Reston, garden restaurant. Me to pick. Cleck open on Monday.  
+Chp 2 and 3 exercises, me own data, Russian Oil production, prediction time series model.  
+Optional: Read through chp 4, but not exercises.  
+
+
+
 
