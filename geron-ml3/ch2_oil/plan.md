@@ -51,7 +51,8 @@ Also track shipping information, satellite images, flares, cars/truck activity.
 
 Predict US production and exports, where? Asia, S America, Europe.  
 
-
+### Bling:  
+Go-To app, visualize going to various Russian offshore shipping locations and pipeline and rail oil transportation locations.  View and track shipments real time or be historical dates.  Fly over St Petersburg and Moscow?  
 
 ### Web Research:  
 Download pictures from public websites, in iPad  
