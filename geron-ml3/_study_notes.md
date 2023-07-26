@@ -112,4 +112,5 @@ Precision:
 Correctly identified apples on "apple-side" of model line /  
 All items on that side.  
 
+August, move on to chp4, gradient descent math, example step by step.  
 
