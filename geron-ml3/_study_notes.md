@@ -100,6 +100,16 @@ Next meeting 7/24 Monday 6:30pm Reston, garden restaurant. Me to pick. Cleck ope
 Chp 2 and 3 exercises, me own data, Russian Oil production, prediction time series model.  
 Optional: Read through chp 4, but not exercises.  
 
+### 7/24/2023 notes:  
+Preci-SI-on -- Apple SIDE of model line  
+Rec-ALL -- ALL apples in the sample.
 
+Recall:  
+Correctly identified apples /  
+All true apples  
+
+Precision:  
+Correctly identified apples on "apple-side" of model line /  
+All items on that side.  
 
 
