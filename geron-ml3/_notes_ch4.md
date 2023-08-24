@@ -12,3 +12,5 @@ Need to try running equation with Real numbers.
 
 Math review might have something on it.  
 
+Ridge generally preferred over LASSO. Too harsh, push too many feature weights to zero.   
+ElasticNet more flexible than LASSO, jse instead.  
