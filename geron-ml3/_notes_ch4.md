@@ -14,3 +14,9 @@ Math review might have something on it.
 
 Ridge generally preferred over LASSO. Too harsh, push too many feature weights to zero.   
 ElasticNet more flexible than LASSO, jse instead.  
+
+### 8/30  
+finished watching Youtube SDML meetup.  Pretty good.  
+Go over math slowly. Use actual numbers to test it with code.  
+Can go ahead of my small group by reading ahead and watching SDML group recordings.  
+
