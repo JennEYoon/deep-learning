@@ -19,4 +19,10 @@ ElasticNet more flexible than LASSO, jse instead.
 finished watching Youtube SDML meetup.  Pretty good.  
 Go over math slowly. Use actual numbers to test it with code.  
 Can go ahead of my small group by reading ahead and watching SDML group recordings.  
+2/M still unknown. Why?  
+
+
+
+
+
 
