@@ -8,7 +8,7 @@ The purpose of this repositories is to assist my study of machine learning and d
 .   I am a member of local Meetups in Virginia, USA, where we study machine learning and deep learning together.  
 
 
-### I. Aurelien Geron, Handson-on Machine Learning, 3rd ed, c 2023  
+### I. Aurelien Geron, Handson-on Machine Learning, 3rd ed, c 2023  (Oct 2022 printed)  
 /geron-ml3/ 
 
   * Started studying this book with my small group in March 2023. 
