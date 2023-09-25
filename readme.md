@@ -18,7 +18,7 @@ The purpose of this repositories is to assist my study of machine learning and d
   * Good addition to Cholett book.  .     
 
 
-### IIa. My exercises from Chollet, Deep Learning with Python, 2nd ed, c 2021       
+### II.  My exercises from Chollet, Deep Learning with Python, 2nd ed, c 2021       
 /chollet2/
 
   * Manning book:  https://www.manning.com/books/deep-learning-with-python-second-edition  
@@ -34,12 +34,12 @@ The purpose of this repositories is to assist my study of machine learning and d
 Most users in the survey never entered a Kaggle challenge and never ran a deep learning model, so the results were heavily skewed towards newbies. Then he eliminated Scikit-Learn, which should have been a clear winner. Also PyTorch and Fastai libraries should have been in the running along with Tensorflow and Keras, but is not there.  
   * San Diego Machine Learning meetup group on YouTube discuss all 19 chapters of 2nd ed book. Very similar to 3rd ed chp 1-13.  
 
-### IIb. NVIDIA deep learning book  
+### IIb. selected chapters, NVIDIA deep learning book  
 /ekman-ldl/
 
   * Magnus Ekman, Learning Deep Learning, NVIDIA Deep Learning Institute, c 2022 NVIDIA Corp., Addison-Wesley publishing
 
-Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries. PyTorch version of all chapter code is available online.  NVIDIA GTC conference in 2021 and 2022 demo the book in a tutorial.  To download PyTorch notebooks and try some.  
+Has extremely good explanations of math and concepts with colored charts. Cheatsheet at the end of the book organizes the different DL models and how to use them. It's not a beginner book. Intermediate to advanced book, in my opinion.  Better than Chollet book 2nd ed.  Has more complete details.  Subtitle is Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers using TensorFlow.  This is a good description of the subject matter.  Appendix has PyTorch vs TensorFlow chart for how to convert your project code between these two libraries. PyTorch version of all chapter code is available online.  NVIDIA GTC conference in 2021 and 2022 demo the book in a tutorial.  To download PyTorch notebooks and try 
 
 
 ### III. Practical Deep Learning for Coders, fastai 
