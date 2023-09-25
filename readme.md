@@ -50,6 +50,9 @@ Has extremely good explanations of math and concepts with colored charts. Cheats
 
 ***Move to "Coursera-DLAI" repo in Oct 2020***  
 
+### V.  Udemy Python Machine Learning class, by Jose Portia   
+ See learn-ml repo
+
 ---  
 
 ###  V. Setup, Environment:  
