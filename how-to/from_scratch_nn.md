@@ -28,7 +28,7 @@ Links:
  • The spelled-out intro to neural netwo...  
 - nanoGPT repo: https://github.com/karpathy/nanoGPT
 - my website: https://karpathy.ai
-- my twitter:  
+- my twitter:  https://twitter.com/karpathy   
 
 Supplementary links:
 - Attention is All You Need paper: https://arxiv.org/abs/1706.03762
