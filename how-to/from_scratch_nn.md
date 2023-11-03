@@ -11,108 +11,13 @@
  * Website -- https://karpathy.ai/   
 
 >Notes from YouTube video:
->> 
-Anton Petrov
-
-KR
-
-Skip navigation
-Search
-
-
-
-
-
-Avatar image
-
-
-
-
-0:13 / 1:56:19
-
-•
-intro: ChatGPT, Transformers, nanoGPT, Shakespeare
-
-
+Intro: ChatGPT, Transformers, nanoGPT, Shakespeare
 Let's build GPT: from scratch, in code, spelled out.
 
 Andrej Karpathy
 242K subscribers
-
-Subscribed
-
- 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
- 
- 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
- 
- 
-K
- 
-
-
-Share
-
-Download
-
 3,222,233 views  Jan 17, 2023
+
 We build a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. We talk about connections to ChatGPT, which has taken the world by storm. We watch GitHub Copilot, itself a GPT, help us write a GPT (meta :D!) . I recommend people watch the earlier makemore videos to get comfortable with the autoregressive language modeling framework and basics of tensors and PyTorch nn, which we take for granted in this video.
 
 Links:
@@ -124,11 +29,6 @@ Links:
 - nanoGPT repo: https://github.com/karpathy/nanoGPT
 - my website: https://karpathy.ai
 - my twitter:  
-
- / karpathy  
-- our Discord channel:  
-
- / discord  
 
 Supplementary links:
 - Attention is All You Need paper: https://arxiv.org/abs/1706.03762
