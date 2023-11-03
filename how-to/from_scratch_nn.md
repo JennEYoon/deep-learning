@@ -1,8 +1,7 @@
-# Tutorials - From Scratch Neural Networks, Transformers, LLMs  
+# From Scratch Neural Networks, Transformers    
 
-Andrej Karpathy:  
-YouTube Channel  
+### Andrej Karpathy:  
+YouTube Channel -- https://www.youtube.com/@AndrejKarpathy  
 
-Website
-https://karpathy.ai/  
+Website -- https://karpathy.ai/  
 
