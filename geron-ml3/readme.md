@@ -3,7 +3,7 @@
 2nd edL Copywright 2019, Aurelien Geron.  
 3rd ed. Copyright 2022 Oct, A. Geron.  
 
-### Meetup Small Group - start in 2023.  
+### Meetup Small Group - start in 2023 Mar-April.  
 
 Handson-ml3 Oct 2022 print available   
 my fork:  https://github.com/JennEYoon/handson-ml3-fork  
