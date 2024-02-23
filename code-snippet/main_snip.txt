@@ -34,10 +34,11 @@ print(tf.__version__)
 
 copy tar, download
 import os
-import PATH, pathlib
+import pathlib
 
 from pathlib import Path  
-
+IMAGES_PATH = Path() / "images" / "subdir"
+IMAGES_PATH.mkdir(parents=True, exist_ok=True)
 
 
 
