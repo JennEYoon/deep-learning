@@ -30,6 +30,13 @@ print(tf.__version__)
 (write how Nvidia ami code) 
 
 
+#### import file, pathlib  
+
+copy tar, download
+import os
+import PATH, pathlib
+
+
 
 
 
