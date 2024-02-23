@@ -36,6 +36,11 @@ copy tar, download
 import os
 import PATH, pathlib
 
+double tap period  
+OK gone  
+Reset iPad.  
+Update software inintroduced problem   
+hello  
 
 
 
