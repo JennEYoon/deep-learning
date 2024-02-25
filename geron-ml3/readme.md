@@ -1,7 +1,11 @@
 # My practice notes, Hands-on Machine Learning, 3rd ed and 2nd ed.  
 
-2nd edL Copywright 2019, Aurelien Geron.  
+2nd ed. Copywright 2019, Aurelien Geron.  
 3rd ed. Copyright 2022 Oct, A. Geron.  
+
+nbviewer:   
+https://nbviewer.org/github/ageron/handson-ml3/blob/main/index.ipynb   
+https://nbviewer.org/github/ageron/handson-ml3/blob/main/08_dimensionality_reduction.ipynb
 
 ### Meetup Small Group - start in 2023 Mar-April.  
 
