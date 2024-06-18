@@ -1,12 +1,10 @@
+# HuggingFace courses on LLM  
 
-
-Hugging Face also offers a free NLP course with a lot of good material.  
+### Huggingface introductory LLM course, free  
 https://huggingface.co/learn/nlp-course  
-Introduction - Hugging Face NLP Course
-We’re on a journey to advance and democratize artificial intelligence through open source and open science. id
-<img src="./huggingface_nlp.jpg" width=400 />
+<img src="./huggingface_nlp.jpg" width=400 align=left alt="huggingface logo" />
 
-### Chapter Table  
-<img src="./huggingface_chapters.png" width=600 align=left />
+### Intro Course Chapter Table  
+<img src="./huggingface_chapters.png" width=600 align=left alt="table of chapters" />
 
 
