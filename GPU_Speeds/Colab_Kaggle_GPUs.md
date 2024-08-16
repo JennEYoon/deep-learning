@@ -29,3 +29,10 @@ Colab 40GB/78GB storage disc using
 > As of August 6, 2022, Colab provides in the free tier K80, and a limited time on T4.  T4 has 16GB VRAM (vs 8GB) and is twice as fast as K80.  
 
 <img src="GPU_Colab_Kaggle_FLOPS.png" width="600" alt="4 GFLOPS K80/8 GFLOPS T4" />
+
+2024 June T4 is minimum now?  
+Asus ROG laptop similar to T4 speeds on LLM.  
+
+
+
+
