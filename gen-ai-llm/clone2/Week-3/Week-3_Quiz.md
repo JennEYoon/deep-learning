@@ -23,10 +23,10 @@ Is this true or false?
 - [ ] KL divergence is used to train the reward model by scoring the difference of the new completions from the original human-labeled ones.
 
 **5.** Fill in the blanks: When fine-tuning a large language model with human feedback, the action that the agent (in this case the LLM) carries out is ________ and the action space is the _________.
-- [x] Generating the next token, vocabulary of all tokens.
+- [x] Generating the next token, vocabulary of all tokens. (wrong)
 - [ ] Processing the prompt, context window.
 - [ ] Calculating the probability distribution, the LLM model weights.
-- [ ] Generating the next token, the context window
+- [ ] Generating the next token, the context window (correct answer)
 
 **6.** How does Retrieval Augmented Generation (RAG) enhance generation-based models?
 - [ ] By applying reinforcement learning techniques to augment completions. 
