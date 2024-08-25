@@ -40,7 +40,7 @@ Is this true or false?
 - [ ] Reduced memory footprint for the model
 - [x] Improve relevance and accuracy of responses
 
-**8.** What is a correct definition of Program-aided Language (PAL) models?
+**8.** What is a correct definition of Program-aided Language (PAL) models? (don't know)
 - [x] Models that offload computational tasks to other programs.
 - [ ] Models that integrate language translation and coding functionalities.
 - [ ] Models that assist programmers in writing code through natural language interfaces.
@@ -52,7 +52,7 @@ Is this true or false?
 - [ ] Exploring action plan generation in LLMs.
 - [x] Enhancing language understanding and decision making in LLMs.
 
-**10.** What is the main purpose of the LangChain framework?
+**10.** What is the main purpose of the LangChain framework?  (to verify)
 - [x] To chain together different components and create advanced use cases around LLMs, such as chatbots, Generative Question-Answering (GQA), and summarization.
 - [ ] To evaluate the LLM's completions and provide fast prototyping and deployment capabilities.
 - [ ] To connect with external APIs and datasets and offload computational tasks.
