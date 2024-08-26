@@ -1,6 +1,6 @@
 **1.** Which of the following are true in regards to Constitutional AI? Select all that apply.
 - [x] Red Teaming is the process of eliciting undesirable responses by interacting with a model.
-- [ ] For constitutional AI, it is necessary to provide human feedback to guide the revisions.
+- [ ] For constitutional AI, it is necessary to provide human feedback to guide the revisions. no, AI-Feedback
 - [x] To obtain revised answers for possible harmful prompts, we need to go through a Critique and Revision process.
 - [x] In Constitutional AI, we train a model to choose between different prompts.
 
@@ -23,10 +23,10 @@ Is this true or false?
 - [ ] KL divergence is used to train the reward model by scoring the difference of the new completions from the original human-labeled ones.
 
 **5.** Fill in the blanks: When fine-tuning a large language model with human feedback, the action that the agent (in this case the LLM) carries out is ________ and the action space is the _________.
-- [x] Generating the next token, vocabulary of all tokens. (wrong)
+- [x] Generating the next token, vocabulary of all tokens. correct
 - [ ] Processing the prompt, context window.
 - [ ] Calculating the probability distribution, the LLM model weights.
-- [ ] Generating the next token, the context window (correct answer)
+- [ ] Generating the next token, the context window (for prompt engineering)  
 
 **6.** How does Retrieval Augmented Generation (RAG) enhance generation-based models?
 - [ ] By applying reinforcement learning techniques to augment completions. 
@@ -40,20 +40,21 @@ Is this true or false?
 - [ ] Reduced memory footprint for the model
 - [x] Improve relevance and accuracy of responses
 
-**8.** What is a correct definition of Program-aided Language (PAL) models? (don't know)
-- [x] Models that offload computational tasks to other programs.
+**8.** What is a correct definition of Program-aided Language (PAL) models? 
+- [x] Models that offload computational tasks to other programs. connectiong to code interpreter, search app, etc.  
 - [ ] Models that integrate language translation and coding functionalities.
 - [ ] Models that assist programmers in writing code through natural language interfaces.
 - [ ] Models that enable automatic translation of programming languages to human languages.
 
 **9.** Which of the following best describes the primary focus of ReAct?
 - [ ] Investigating reasoning abilities in LLMs through chain-of-thought prompting.
-- [ ] Studying the separate topics of reasoning and acting in LLMs.
+- [ ] correct - Studying the separate topics of reasoning and acting in LLMs. Reasoning + Action combining
 - [ ] Exploring action plan generation in LLMs.
-- [x] Enhancing language understanding and decision making in LLMs.
+- [x] Enhancing language understanding and decision making in LLMs. wrong  
 
-**10.** What is the main purpose of the LangChain framework?  (to verify)
+**10.** What is the main purpose of the LangChain framework?  
 - [x] To chain together different components and create advanced use cases around LLMs, such as chatbots, Generative Question-Answering (GQA), and summarization.
 - [ ] To evaluate the LLM's completions and provide fast prototyping and deployment capabilities.
 - [ ] To connect with external APIs and datasets and offload computational tasks.
-- [ ] To provide prompt templates, agents, and memory components for working with LLMs.
+      Also true, but chaining components it the main functions, and building complex LLM apps.  
+- [ ] To provide prompt templates, agents, and memory components for working with LLMs.  
