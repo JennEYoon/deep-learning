@@ -40,7 +40,8 @@ Is this true or false?
 - [ ] LoRA trains  a smaller, distilled version of the pre-trained LLM to reduce model size
 - [ ] LoRA continues the original pre-training objective on new data to update the weights of the original model.
 
-**8.** What is a soft prompt in the context of LLMs (Large Language Models)?
+**8.** What is a soft prompt in the context of LLMs (Large Language Models)?  
+review soft prompt examples, still not solid.   
 - [x] A set of trainable tokens that are added to a prompt and whose values are updated during additional training to improve performance on specific tasks.
 - [ ] A strict and explicit input text that serves as a starting point for the model's generation.
 - [ ] A technique to limit the creativity of the model and enforce specific output patterns.
