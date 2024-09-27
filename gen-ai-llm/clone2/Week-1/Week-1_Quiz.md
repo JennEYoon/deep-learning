@@ -24,7 +24,7 @@ Choose the answer that correctly fill in the blanks.
 - [ ] Performing regularization
 - [x] Manipulating the model to align with specific project needs.
 - [x] Selecting a candidate model and potentially pre-training a custom model.
-
+to review  
 **5.** "RNNs are better than Transformers for generative AI Tasks."
 
 Is this true or false?
@@ -33,6 +33,7 @@ Is this true or false?
 
 **6.** Which transformer-based model architecture has the objective of guessing a masked token based on the previous sequence of tokens by building bidirectional representations of the input sequence.
 - [x] Autoencoder
+      to review
 - [ ] Autoregressive
 - [ ] Sequence-to-sequence
 
