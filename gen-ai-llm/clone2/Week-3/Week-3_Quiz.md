@@ -53,8 +53,8 @@ Is this true or false?
 - [x] Enhancing language understanding and decision making in LLMs. wrong  
 
 **10.** What is the main purpose of the LangChain framework?  
-- [x] To chain together different components and create advanced use cases around LLMs, such as chatbots, Generative Question-Answering (GQA), and summarization.
+- [x] To chain together different components and create advanced use cases around LLMs, such as chatbots, Generative Question-Answering (GQA), and summarization.  
 - [ ] To evaluate the LLM's completions and provide fast prototyping and deployment capabilities.
-- [ ] To connect with external APIs and datasets and offload computational tasks.
-      Also true, but chaining components it the main functions, and building complex LLM apps.  
+- [ ] To connect with external APIs and datasets and offload computational tasks.  
+       * Also true, but chaining components is the main functions, and building complex LLM apps.  
 - [ ] To provide prompt templates, agents, and memory components for working with LLMs.  
