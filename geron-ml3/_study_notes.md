@@ -114,3 +114,16 @@ All items on that side.
 
 August, move on to chp4, gradient descent math, example step by step.  
 
+### Nov 29, 2024 notes   
+
+Paused for Dec. Chp 12 starting January 2025. Very slow Should have finished by now.  
+No longer beneficial to learn just for the sake of learning about the overall concept.  
+Need dedicated learning to solve a problem on my current project.  
+Do not be afraid to fail, but just start and expect to course correct many times and quickly.  
+Bump into a wall, then turn, and bump into another wall, and repeat while getting feedback from wrong directions.  
+Only possible is outcomes are finite and small enough number to overcome in reasonable time period.  
+
+
+
+
+
