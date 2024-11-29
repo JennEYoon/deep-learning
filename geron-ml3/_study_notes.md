@@ -123,6 +123,8 @@ Do not be afraid to fail, but just start and expect to course correct many times
 Bump into a wall, then turn, and bump into another wall, and repeat while getting feedback from wrong directions.  
 Only possible is outcomes are finite and small enough number to overcome in reasonable time period.  
 
+Yet, it is a truism that I can only make small progress at a time.  
+I need to find leverage, other people, capital, machinery-AI coding, land resources USA, language English.   
 
 
 
