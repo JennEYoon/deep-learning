@@ -21,6 +21,9 @@ April 2022 DeepMind, Flamingo - multi-modal model
 May 2022 DeepMind GATO, multi-modal, reinforcement learning. chat, play Atari games, control robot arm, caption images. 
 
 ### 3Blue 1Brown  
+Transformer videos: 
+Chp 5 Transformers: https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6  
+Chp 6 Attention: https://github.com/JennEYoon/deep-learning/blob/main/geron-ml3/Dir_EmbSp_have_meaning_1301.3781v3.pdf  
 
 Ealier paper, directions in embedding space has meaning.  
 <a href="https://github.com/JennEYoon/deep-learning/blob/main/geron-ml3/Dir_EmbSp_have_meaning_1301.3781v3.pdf" >paper</a>
