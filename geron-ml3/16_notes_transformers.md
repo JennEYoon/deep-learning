@@ -27,3 +27,7 @@ Chp 6 Attention: https://github.com/JennEYoon/deep-learning/blob/main/geron-ml3/
 
 Ealier paper, directions in embedding space has meaning.  
 <a href="https://github.com/JennEYoon/deep-learning/blob/main/geron-ml3/Dir_EmbSp_have_meaning_1301.3781v3.pdf" >paper</a>
+
+Jay Alammar blog, Illustrated Transformer (good for understanding)  
+
+
