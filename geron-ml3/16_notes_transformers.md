@@ -20,3 +20,6 @@ OpenAI DALL.E, DALL.E-2 - image generation diffusion model, high quality
 April 2022 DeepMind, Flamingo - multi-modal model  
 May 2022 DeepMind GATO, multi-modal, reinforcement learning. chat, play Atari games, control robot arm, caption images. 
 
+### 3Blue 1Brown  
+
+Ealier paper, directions in embedding space has meaning.  
