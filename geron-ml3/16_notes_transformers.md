@@ -23,3 +23,4 @@ May 2022 DeepMind GATO, multi-modal, reinforcement learning. chat, play Atari ga
 ### 3Blue 1Brown  
 
 Ealier paper, directions in embedding space has meaning.  
+<a href="https://github.com/JennEYoon/deep-learning/blob/main/geron-ml3/Dir_EmbSp_have_meaning_1301.3781v3.pdf" >paper</a>
