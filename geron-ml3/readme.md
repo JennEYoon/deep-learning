@@ -8,6 +8,7 @@ https://nbviewer.org/github/ageron/handson-ml3/blob/main/index.ipynb
 https://nbviewer.org/github/ageron/handson-ml3/blob/main/08_dimensionality_reduction.ipynb
 
 ### Meetup Small Group - start in 2023 Mar-April.  
+> **Sept 2025, Chapter 16 RNN, Attention, Transformer**  
 
 Handson-ml3 Oct 2022 print available   
 my fork:  https://github.com/JennEYoon/handson-ml3-fork  
